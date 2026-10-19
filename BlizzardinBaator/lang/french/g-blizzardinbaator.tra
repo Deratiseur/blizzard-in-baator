@@ -4,268 +4,268 @@
 // =========== //
 //////////////////
 
-@100000 = ~« Meurs ! »~
-@100001 = ~« Je vais te geler le cul ! »~
-@100002 = ~« Entre Haer'Dalis ! »~
-@100003 = ~« Le destin nous appelle tous. »~
-@100004 = ~« Voilà un rôle que je joue avec plaisir ! »~
-@100005 = ~« Ouais, le sang vital d'une cité. *petit rire* Il monte et descend pareil sur tous les Plans. »~
+@100000 = ~"Meurs !"~
+@100001 = ~"Je vais te geler le cul !"~
+@100002 = ~"Entre Haer'Dalis !"~
+@100003 = ~"Le destin nous appelle tous."~
+@100004 = ~"Voilà un rôle que je joue avec plaisir !"~
+@100005 = ~"Ouais, le sang vital d'une cité. *petit rire* Il monte et descend pareil sur tous les Plans."~
 @100006 = ~*Sifflement*~
-@100007 = ~« Je danserai volontiers sur votre musique... si seulement vous apprenez à en jouer. »~
-@100008 = ~« Il fait si chaud. Pas vrai ? »~
-@100009 = ~« Quel endroit formidable ! »~
-@100010 = ~« Ahh ! »~
-@100011 = ~« Tu ne connais rien à l'Art ! »~
-@100012 = ~« Maintenant, tu meurs. »~
-@100013 = ~« Finis-le ! »~
-@100014 = ~« Crève, avorton ! »~
-@100015 = ~« MON LOUP !!! »~
-@100016 = ~« Obéis ! »~
-@100017 = ~« Euh. Bon, alors... »~
-@100018 = ~« Joseph le Noir... Comment dire... Je suis venu confisquer... ton imp. »~
-@100019 = ~« Oui... je crois. »~
-@100020 = ~« Ah oui ? »~
-@100021 = ~« Je ne crois pas. »~
-@100022 = ~« J'aaarrive tout de suiiite. »~
-@100023 = ~« D'aaaaccord... »~
-@100024 = ~« La Salle du Rutterkin est ouuouverte ! »~
-@100025 = ~« Cocktail du Fossé, c'est çaaa ? »~
+@100007 = ~"Je danserai volontiers sur votre musique... si seulement vous apprenez à en jouer."~
+@100008 = ~"Il fait si chaud. Pas vrai ?"~
+@100009 = ~"Quel endroit formidable !"~
+@100010 = ~"Ahh !"~
+@100011 = ~"Tu ne connais rien à l'Art !"~
+@100012 = ~"Maintenant, tu meurs."~
+@100013 = ~"Finis-le !"~
+@100014 = ~"Crève, avorton !"~
+@100015 = ~"MON LOUP !!!"~
+@100016 = ~"Obéis !"~
+@100017 = ~"Euh. Bon, alors..."~
+@100018 = ~"Joseph le Noir... Comment dire... Je suis venu confisquer... ton imp."~
+@100019 = ~"Oui... je crois."~
+@100020 = ~"Ah oui ?"~
+@100021 = ~"Je ne crois pas."~
+@100022 = ~"J'aaarrive tout de suiiite."~
+@100023 = ~"D'aaaaccord..."~
+@100024 = ~"La Salle du Rutterkin est ouuouverte !"~
+@100025 = ~"Cocktail du Fossé, c'est çaaa ?"~
 @100026 = ~*Coassement*~
-@100027 = ~« Approchez ! Départ pour la plage du Fossé, tout de suite ! »~
-@100028 = ~« Venez réchauffer vos vieux os dans l'endroit le plus chaud de toute la Ruche ! »~
-@100029 = ~« Voyage vers le Fossé ! Seulement 10 cuivres ! »~
-@100030 = ~« Ooooh... »~
-@100031 = ~« Apporte des courants heureux à notre peuple... »~
-@100032 = ~« Apporte la mort à nos ennemis ! »~
-@100033 = ~« Coupe-coupe, oui-oui... Les entrailles font floc-floc ! »~
-@100034 = ~« Gloire à Istishia ! »~
-@100035 = ~« Gloire à Baluu ! »~
-@100036 = ~« Gloire à la Dame Morte ! »~
-@100037 = ~« Gloire à Sire Scar ! »~
+@100027 = ~"Approchez ! Départ pour la plage du Fossé, tout de suite !"~
+@100028 = ~"Venez réchauffer vos vieux os dans l'endroit le plus chaud de toute la Ruche !"~
+@100029 = ~"Voyage vers le Fossé ! Seulement 10 cuivres !"~
+@100030 = ~"Ooooh..."~
+@100031 = ~"Apporte des courants heureux à notre peuple..."~
+@100032 = ~"Apporte la mort à nos ennemis !"~
+@100033 = ~"Coupe-coupe, oui-oui... Les entrailles font floc-floc !"~
+@100034 = ~"Gloire à Istishia !"~
+@100035 = ~"Gloire à Baluu !"~
+@100036 = ~"Gloire à la Dame Morte !"~
+@100037 = ~"Gloire à Sire Scar !"~
 @100038 = ~*Hurlement*~
-@100039 = ~« Sale lézard de bige ! »~
-@100040 = ~« Cette fois, t'es fini ! »~
-@100041 = ~« Dis-moi, abishaï, Tiamat était à court de teinture rouge ? »~
-@100042 = ~« Grrr... »~
-@100043 = ~« Tu sais même pas tricher correctement ! »~
-@100044 = ~« Sale cabot plein de puces ! Tu vas ravaler tes paroles ! »~
-@100045 = ~« Un jour, je chanterai “Ô flammes jubilatoires” sur ta tombe. »~
+@100039 = ~"Sale lézard de bige !"~
+@100040 = ~"Cette fois, t'es fini !"~
+@100041 = ~"Dis-moi, abishaï, Tiamat était à court de teinture rouge ?"~
+@100042 = ~"Grrr..."~
+@100043 = ~"Tu sais même pas tricher correctement !"~
+@100044 = ~"Sale cabot plein de puces ! Tu vas ravaler tes paroles !"~
+@100045 = ~"Un jour, je chanterai"Ô flammes jubilatoires"sur ta tombe."~
 @100046 = ~*Coup de coude, clin d'œil*~
-@100047 = ~« Hé, matois, tu veux t'amuser ? »~
-@100048 = ~« Parlons un peu, beau gosse... »~
-@100049 = ~« Écoute bien, je ne répéterai pas... »~
-@100050 = ~« Tu comprends ce que je veux dire ? »~
-@100051 = ~« Le paradoxe de la flèche, je t'en ai déjà parlé... »~
-@100052 = ~« Oh, attends, je crois que je comprends... »~
-@100053 = ~« Je comprends pas vraiment, mon pote... »~
-@100054 = ~« Bon... »~
+@100047 = ~"Hé, matois, tu veux t'amuser ?"~
+@100048 = ~"Parlons un peu, beau gosse..."~
+@100049 = ~"Écoute bien, je ne répéterai pas..."~
+@100050 = ~"Tu comprends ce que je veux dire ?"~
+@100051 = ~"Le paradoxe de la flèche, je t'en ai déjà parlé..."~
+@100052 = ~"Oh, attends, je crois que je comprends..."~
+@100053 = ~"Je comprends pas vraiment, mon pote..."~
+@100054 = ~"Bon..."~
 @100055 = ~*Hic !*~
-@100056 = ~« Besoin d'que'que chose, patron... ? »~
-@100057 = ~« Patron ! Paaatrooon ! »~
-@100058 = ~« Le... le meilleur rabatteur de toute cette foutue fourmilière ! »~
-@100059 = ~« Patron, file-moi du jonc et j'te donne des indications ! »~
+@100056 = ~"Besoin d'que'que chose, patron... ?"~
+@100057 = ~"Patron ! Paaatrooon !"~
+@100058 = ~"Le... le meilleur rabatteur de toute cette foutue fourmilière !"~
+@100059 = ~"Patron, file-moi du jonc et j'te donne des indications !"~
 @100060 = ~*Rôt !*~
-@100061 = ~« C'est une acc... accusation très sérieuse ! »~
-@100062 = ~« Oh, Sonne. »~
-@100063 = ~« Tu m'aimes vraiment ? »~
-@100064 = ~« Chérie, s'il te plaît, sois honnête avec moi. »~
-@100065 = ~« Tu ne m'aimes plus ? »~
-@100066 = ~« Oh, Zack... »~
-@100067 = ~« Tu sais bien que je t'aime vraiment. »~
-@100068 = ~« Pourquoi tu ne comprends pas ce que je veux dire ? »~
-@100069 = ~« L'amour n'est pas ce que tu crois. »~
-@100070 = ~« Tu commandes quelque chose ? Ou peut-être qu'un peu de jeu t'intéresse ? »~
-@100071 = ~« Une pinte ! »~
-@100072 = ~« Voilà ta pinte, bige ! »~
-@100073 = ~« Voilà, mon pote ! »~
-@100074 = ~« Une pinte bien fraîche pour toi ! »~
-@100075 = ~« Attention à la tête, une pinte arrive ! »~
-@100076 = ~« Une bière de froment ! »~
-@100077 = ~« Une Bière abyssale d'Avner ! »~
-@100078 = ~« Un Vin de sang baatezu ! »~
-@100079 = ~« Les résultats de la course de rats-crânes sont... »~
-@100080 = ~« Hé, vous là-bas, pas de bagarre ! »~
-@100081 = ~« Pas de feu à l'intérieur ! Ici, c'est pas le Cadavre Calciné ! »~
-@100082 = ~« Des nouvelles de la Guerre Sanglante ? »~
-@100083 = ~« Vases ! Où êtes-vous ? »~
-@100084 = ~« Un... Deux... »~
-@100085 = ~« Attends, c'est une seule vase ? Ou deux collées l'une à l'autre ? »~
-@100086 = ~« Par Primus, qu'est-ce que c'est sale ici... »~
-@100087 = ~« Cassie ? C'est toi ? »~
-@100088 = ~« Grrraou ! »~
-@100089 = ~« Hum. Grrraou, j'ai dit. »~
-@100090 = ~« Ayez peur ! »~
+@100061 = ~"C'est une acc... accusation très sérieuse !"~
+@100062 = ~"Oh, Sonne."~
+@100063 = ~"Tu m'aimes vraiment ?"~
+@100064 = ~"Chérie, s'il te plaît, sois honnête avec moi."~
+@100065 = ~"Tu ne m'aimes plus ?"~
+@100066 = ~"Oh, Zack..."~
+@100067 = ~"Tu sais bien que je t'aime vraiment."~
+@100068 = ~"Pourquoi tu ne comprends pas ce que je veux dire ?"~
+@100069 = ~"L'amour n'est pas ce que tu crois."~
+@100070 = ~"Tu commandes quelque chose ? Ou peut-être qu'un peu de jeu t'intéresse ?"~
+@100071 = ~"Une pinte !"~
+@100072 = ~"Voilà ta pinte, bige !"~
+@100073 = ~"Voilà, mon pote !"~
+@100074 = ~"Une pinte bien fraîche pour toi !"~
+@100075 = ~"Attention à la tête, une pinte arrive !"~
+@100076 = ~"Une bière de froment !"~
+@100077 = ~"Une Bière abyssale d'Avner !"~
+@100078 = ~"Un Vin de sang baatezu !"~
+@100079 = ~"Les résultats de la course de rats-crânes sont..."~
+@100080 = ~"Hé, vous là-bas, pas de bagarre !"~
+@100081 = ~"Pas de feu à l'intérieur ! Ici, c'est pas le Cadavre Fumant !"~
+@100082 = ~"Des nouvelles de la Guerre Sanglante ?"~
+@100083 = ~"Vases ! Où êtes-vous ?"~
+@100084 = ~"Un... Deux..."~
+@100085 = ~"Attends, c'est une seule vase ? Ou deux collées l'une à l'autre ?"~
+@100086 = ~"Par Primus, qu'est-ce que c'est sale ici..."~
+@100087 = ~"Cassie ? C'est toi ?"~
+@100088 = ~"Grrraou !"~
+@100089 = ~"Hum. Grrraou, j'ai dit."~
+@100090 = ~"Ayez peur !"~
 @100091 = ~*Marmonnement*~
 @100092 = ~*Marmonne*~
-@100093 = ~« Six... Sept... Merde, je me suis encore trompé... »~
-@100094 = ~« Les pores... Foutus pores... »~
-@100095 = ~« Non ! Non ! NON !!! »~
-@100096 = ~« Meurs, disparais ! »~
-@100097 = ~« Tu ne me feras plus de mal ! »~
+@100093 = ~"Six... Sept... Merde, je me suis encore trompé..."~
+@100094 = ~"Les pores... Foutus pores..."~
+@100095 = ~"Non ! Non ! NON !!!"~
+@100096 = ~"Meurs, disparais !"~
+@100097 = ~"Tu ne me feras plus de mal !"~
 @100098 = ~*Cri*~
 @100099 = ~*Soupir*~
 @100100 = ~*Profond soupir*~
 @100101 = ~*Gloussement*~
 @100102 = ~*Ricanement*~
 @100103 = ~*Petit rire*~
-@100104 = ~« Rats ! Venez à moi, petits rats ! »~
-@100105 = ~« Je vous tiens ! »~
-@100106 = ~« Non ! Ne fuyez pas ! »~
-@100107 = ~« De l'or ! »~
-@100108 = ~« De l'ooooor ! »~
-@100109 = ~« Pas d'or... ? »~
-@100110 = ~« Ils regardent ! »~
-@100111 = ~« Ils me voient ! »~
-@100112 = ~« Je sens votre regard ! Je ne le vois pas, mais je le sens ! »~
-@100113 = ~« Des yeux... Je vois des yeux ! Dans mon esprit ! »~
+@100104 = ~"Rats ! Venez à moi, petits rats !"~
+@100105 = ~"Je vous tiens !"~
+@100106 = ~"Non ! Ne fuyez pas !"~
+@100107 = ~"De l'or !"~
+@100108 = ~"De l'ooooor !"~
+@100109 = ~"Pas d'or... ?"~
+@100110 = ~"Ils regardent !"~
+@100111 = ~"Ils me voient !"~
+@100112 = ~"Je sens votre regard ! Je ne le vois pas, mais je le sens !"~
+@100113 = ~"Des yeux... Je vois des yeux ! Dans mon esprit !"~
 @100114 = ~*Ploc*~
-@100115 = ~« L'illumination est si proche... »~
-@100116 = ~« Il était une fois un ivrogne de la Ruche... »~
-@100117 = ~« Qu'est-ce qui pourrait venir ensuite... ? »~
-@100118 = ~« Ruche... Qu'est-ce qui rime avec Ruche... ? »~
-@100119 = ~« Ça fait seulement sept syllabes, ça ? »~
-@100120 = ~« Bon, ça pourrait sonner bien... »~
+@100115 = ~"L'illumination est si proche..."~
+@100116 = ~"Il était une fois un ivrogne de la Ruche..."~
+@100117 = ~"Qu'est-ce qui pourrait venir ensuite... ?"~
+@100118 = ~"Ruche... Qu'est-ce qui rime avec Ruche... ?"~
+@100119 = ~"Ça fait seulement sept syllabes, ça ?"~
+@100120 = ~"Bon, ça pourrait sonner bien..."~
 @100121 = ~*Hum hum*~
-@100122 = ~« Bon, on recommence... »~
-@100123 = ~« Euh, excusez-moi ? »~
-@100124 = ~« Vous avez vu une fille en robe rouge ? »~
-@100125 = ~« Me regardez pas comme ça... »~
-@100126 = ~« Une pinte ! »~
-@100127 = ~« Voilà votre pinte ! »~
-@100128 = ~« Tu commandes quelque chose, bipède ? »~
-@100129 = ~« Voilà ! »~
-@100130 = ~« Une pinte bien fraîche pour toi ! »~
-@100131 = ~« Attention à la tête, une pinte arrive ! »~
-@100132 = ~« Qui a commandé la bière aux graines de tournesol ? »~
-@100133 = ~« Une bière de maïs ! »~
-@100134 = ~« Quelle est la chanson ? Bois et raconte-moi. »~
-@100135 = ~« Maudits hommes-poissons ! Ils ont encore attaqué nos camarades ? »~
-@100136 = ~« L'espion des Nations Mortes ? Liquidé, j'en ai peur. »~
-@100137 = ~« Regardez-moi ce sang rusé. »~
-@100138 = ~« C'est quoi, l'histoire de ce squelette ? J'espère que ce barbe-grise vient pas de chez Hargrimm. »~
-@100139 = ~« Attendez un instant, j'arrive. »~
-@100140 = ~« Ça fait très mal ? »~
-@100141 = ~« Alors, ça va mieux, non ? »~
-@100142 = ~« Doucement ! Je vais m'en occuper. »~
-@100143 = ~« Douleur, va-t'en ! »~
-@100144 = ~« Qui suis-je... ? »~
-@100145 = ~« Hé, vous ! Vous me connaissez, par hasard ? »~
-@100146 = ~« Qui est-ce que j'ai été pendant tout ce temps ? »~
-@100147 = ~« Je suis juste un... tieffelin ? Ça, j'en suis sûr... »~
-@100148 = ~« On est à Sigil, non ? Ouais, ça aussi je m'en souviens... »~
-@100149 = ~« Monsieur ! Un peu de jonc ! »~
-@100150 = ~« Il me faut des pierres... »~
-@100151 = ~« Vous avez des pierres ? »~
-@100152 = ~« Il m'en faut tellement plus... »~
-@100153 = ~« Regardez les couleurs ! »~
-@100154 = ~« Maman ! »~
+@100122 = ~"Bon, on recommence..."~
+@100123 = ~"Euh, excusez-moi ?"~
+@100124 = ~"Vous avez vu une fille en robe rouge ?"~
+@100125 = ~"Me regardez pas comme ça..."~
+@100126 = ~"Une pinte !"~
+@100127 = ~"Voilà votre pinte !"~
+@100128 = ~"Tu commandes quelque chose, bipède ?"~
+@100129 = ~"Voilà !"~
+@100130 = ~"Une pinte bien fraîche pour toi !"~
+@100131 = ~"Attention à la tête, une pinte arrive !"~
+@100132 = ~"Qui a commandé la bière aux graines de tournesol ?"~
+@100133 = ~"Une bière de maïs !"~
+@100134 = ~"Quelle est la chanson ? Bois et raconte-moi."~
+@100135 = ~"Maudits hommes-poissons ! Ils ont encore attaqué nos camarades ?"~
+@100136 = ~"L'espion des Nations Mortes ? Liquidé, j'en ai peur."~
+@100137 = ~"Regardez-moi ce sang rusé."~
+@100138 = ~"C'est quoi, l'histoire de ce squelette ? J'espère que ce barbe-grise vient pas de chez Hargrimm."~
+@100139 = ~"Attendez un instant, j'arrive."~
+@100140 = ~"Ça fait très mal ?"~
+@100141 = ~"Alors, ça va mieux, non ?"~
+@100142 = ~"Doucement ! Je vais m'en occuper."~
+@100143 = ~"Douleur, va-t'en !"~
+@100144 = ~"Qui suis-je... ?"~
+@100145 = ~"Hé, vous ! Vous me connaissez, par hasard ?"~
+@100146 = ~"Qui est-ce que j'ai été pendant tout ce temps ?"~
+@100147 = ~"Je suis juste un... tieffelin ? Ça, j'en suis sûr..."~
+@100148 = ~"On est à Sigil, non ? Ouais, ça aussi je m'en souviens..."~
+@100149 = ~"Monsieur ! Un peu de jonc !"~
+@100150 = ~"Il me faut des pierres..."~
+@100151 = ~"Vous avez des pierres ?"~
+@100152 = ~"Il m'en faut tellement plus..."~
+@100153 = ~"Regardez les couleurs !"~
+@100154 = ~"Maman !"~
 @100155 = ~*Cri*~
-@100156 = ~« Des bipèdes dans le temple ! »~
-@100157 = ~« Le sang va couler ! »~
-@100158 = ~« Squerrik ! Accepte ces trésors et ce sacrifice sanglant pour ta gloire ! »~
-@100159 = ~« Tuez tous les bipèdes ! »~
-@100160 = ~« Cher monsieur ! Puisque vous êtes déjà là, une petite signature avant le saut ne vous coûterait rien. »~
-@100161 = ~« Une petite signature, un petit bond, et un avenir doré vous attend au pays des anges ! »~
-@100162 = ~« Monsieur ! Vous avez pris votre décision ? »~
-@100163 = ~« Je comprends, je comprends. C'est une décision difficile. Mais si vous vous décidez, je serai là à vous attendre. »~
-@100164 = ~« Pas bon. Les Marqués viennent renifler par ici... »~
-@100165 = ~« Patron, j'ai peur qu'on ait pas le temps de répéter au théâtre. Il faut se préparer à une bataille. »~
-@100166 = ~« Ouaf ! »~
-@100167 = ~« Aouuu ! »~
-@100168 = ~« Des nouvelles de Sigil ? »~
-@100169 = ~« Mangez à votre faim ! Demain, on se bat encore ! »~
-@100170 = ~« Passe-moi du sanglier. »~
-@100171 = ~« Marqués ! Marqués ! Qui a raison ? Le plus fort ! »~
-@100172 = ~« Préparez le bain et le sauna, j'y vais bientôt. »~
-@100173 = ~« Heill Óðinn ! Sæl Óðinn ! »~
+@100156 = ~"Des bipèdes dans le temple !"~
+@100157 = ~"Le sang va couler !"~
+@100158 = ~"Squerrik ! Accepte ces trésors et ce sacrifice sanglant pour ta gloire !"~
+@100159 = ~"Tuez tous les bipèdes !"~
+@100160 = ~"Cher monsieur ! Puisque vous êtes déjà là, une petite signature avant le saut ne vous coûterait rien."~
+@100161 = ~"Une petite signature, un petit bond, et un avenir doré vous attend au pays des anges !"~
+@100162 = ~"Monsieur ! Vous avez pris votre décision ?"~
+@100163 = ~"Je comprends, je comprends. C'est une décision difficile. Mais si vous vous décidez, je serai là à vous attendre."~
+@100164 = ~"Pas bon. Les Marqués viennent renifler par ici..."~
+@100165 = ~"Patron, j'ai peur qu'on ait pas le temps de répéter au théâtre. Il faut se préparer à une bataille."~
+@100166 = ~"Ouaf !"~
+@100167 = ~"Aouuu !"~
+@100168 = ~"Des nouvelles de Sigil ?"~
+@100169 = ~"Mangez à votre faim ! Demain, on se bat encore !"~
+@100170 = ~"Passe-moi du sanglier."~
+@100171 = ~"Marqués ! Marqués ! Qui a raison ? Le plus fort !"~
+@100172 = ~"Préparez le bain et le sauna, j'y vais bientôt."~
+@100173 = ~"Heill Óðinn ! Sæl Óðinn !"~
 @100174 = ~*Slurp*~
 @100175 = ~*Schlorp*~
 @100176 = ~*VROUM VROUM*~
-@100177 = ~« J'ai hâte d'être à la bataille de demain. »~
-@100178 = ~« Quel festin ! »~
-@100179 = ~« La force fait le droit ! »~
-@100180 = ~« La force ! La force ! La force ! »~
-@100181 = ~« Heill Óðinn ! »~
-@100182 = ~« Tu veux marchander ? »~
-@100183 = ~« Je me fiche de qui tu es. Le commerce donne un sens à tout, matois. »~
+@100177 = ~"J'ai hâte d'être à la bataille de demain."~
+@100178 = ~"Quel festin !"~
+@100179 = ~"La force fait le droit !"~
+@100180 = ~"La force ! La force ! La force !"~
+@100181 = ~"Heill Óðinn !"~
+@100182 = ~"Tu veux marchander ?"~
+@100183 = ~"Je me fiche de qui tu es. Le commerce donne un sens à tout, matois."~
 @100184 = ~La caisse semble scellée par magie. Une clé est gravée près de la poignée, mais les détails ont disparu à cause des dégâts causés par l'eau.~
 @100185 = ~Grâce au souvenir du dessin vu dans le livre-mimique, la caisse est désormais ouverte.~
-@100186 = ~« APPROCHEZ, GOÛTEZ NOS CHOUX AU CRABE ! DES BOUCHÉES FUNKY QUI VOUS FERONT PLANER ! »~
-@100187 = ~« CHOUX AU CRABE, CHOUX AU CRABE, DÉLICE GLUANT ! REMETTEZ VOS CHOIX EN QUESTION À CHAQUE BOUCHÉE ! »~
-@100188 = ~« UN PETIT CREUX ? VOUS VOUS CROYEZ COSTAUD ? DÉFIEZ VOS PAPILLES, PRENEZ DES CHOUX AU CRABE ! »~
-@100189 = ~« CHOUX AU CRABE ICI, SOYEZ PAS TIMIDE ! VOUS LE REGRETTEREZ PEUT-ÊTRE... MAIS AU MOINS VOUS AUREZ ESSAYÉ ! »~
+@100186 = ~"APPROCHEZ, GOÛTEZ NOS CHOUX AU CRABE ! DES BOUCHÉES FUNKY QUI VOUS FERONT PLANER !"~
+@100187 = ~"CHOUX AU CRABE, CHOUX AU CRABE, DÉLICE GLUANT ! REMETTEZ VOS CHOIX EN QUESTION À CHAQUE BOUCHÉE !"~
+@100188 = ~"UN PETIT CREUX ? VOUS VOUS CROYEZ COSTAUD ? DÉFIEZ VOS PAPILLES, PRENEZ DES CHOUX AU CRABE !"~
+@100189 = ~"CHOUX AU CRABE ICI, SOYEZ PAS TIMIDE ! VOUS LE REGRETTEREZ PEUT-ÊTRE... MAIS AU MOINS VOUS AUREZ ESSAYÉ !"~
 @100190 = ~*Ouf*~
-@100191 = ~« Et puis les chèvres flottantes sont arrivées. »~
+@100191 = ~"Et puis les chèvres flottantes sont arrivées."~
 @100192 = ~*CLAP CLAP*~
-@100193 = ~« Est-ce que je reste moi-même dans mes rêves ? »~
-@100194 = ~« Comment distinguer une flamme d'une étincelle ? »~
-@100195 = ~« Intéressant... »~
+@100193 = ~"Est-ce que je reste moi-même dans mes rêves ?"~
+@100194 = ~"Comment distinguer une flamme d'une étincelle ?"~
+@100195 = ~"Intéressant..."~
 @100196 = ~^0xffFFFFFFJournal mis à jour^-~
-@100197 = ~« LA MORT ! »~
-@100198 = ~« Les infidèles seront punis. Par LA MORT ! »~
-@100199 = ~« Þetta var frábardagi. »~
-@100200 = ~« Ég held að ég hafi drepið að minnsta kosti tólf. »~
-@100201 = ~« Það var nánast eins og á fornum dögum. »~
-@100202 = ~« Það er leitt með fallna menn. »~
-@100203 = ~« Gaaaah ! »~
-@100204 = ~« Aïe, aïe, aïe !!! »~
-@100205 = ~« Maaamaaan !!! »~
-@100206 = ~« À l'aaaiiide !!! »~
-@100207 = ~« Hiiiiii !!! »~
+@100197 = ~"LA MORT !"~
+@100198 = ~"Les infidèles seront punis. Par LA MORT !"~
+@100199 = ~"Þetta var frábardagi."~
+@100200 = ~"Ég held að ég hafi drepið að minnsta kosti tólf."~
+@100201 = ~"Það var nánast eins og á fornum dögum."~
+@100202 = ~"Það er leitt með fallna menn."~
+@100203 = ~"Gaaaah !"~
+@100204 = ~"Aïe, aïe, aïe !!!"~
+@100205 = ~"Maaamaaan !!!"~
+@100206 = ~"À l'aaaiiide !!!"~
+@100207 = ~"Hiiiiii !!!"~
 @100208 = ~^0xffFFFFFFJournal mis à jour^-~
-@100209 = ~« Ça doit être quelque part par ici... »~
-@100210 = ~« C'était à cet étage ? »~
-@100211 = ~« Ma cité a besoin de moi ! »~
-@100212 = ~« Peut-être que je pourrais... »~
-@100213 = ~« Magnifique... »~
+@100209 = ~"Ça doit être quelque part par ici..."~
+@100210 = ~"C'était à cet étage ?"~
+@100211 = ~"Ma cité a besoin de moi !"~
+@100212 = ~"Peut-être que je pourrais..."~
+@100213 = ~"Magnifique..."~
 @100214 = ~*Renifle, renifle*~
-@100215 = ~« Des roses, des roses ! »~
-@100216 = ~« Achetez vos fleurs ! »~
-@100217 = ~« Des gouttes de pluie sur les roses ! »~
-@100218 = ~« Des moustaches de chatons ! »~
-@100219 = ~« Des chats, de jolis chats. »~
-@100220 = ~« Vous avez toujours rêvé d'un ami qui pourrait vous manger ? »~
-@100221 = ~« De brillantes bouilloires en cuivre ! »~
-@100222 = ~« Équipez votre cuisine chez moi ! »~
-@100223 = ~« Casseroles et bouilloires ! »~
-@100224 = ~« De chaudes moufles en laine ! »~
-@100225 = ~« Des chemises légères et amples. »~
-@100226 = ~« Des vêtements pour tous les temps ! »~
-@100227 = ~« Des paquets en papier brun ! »~
-@100228 = ~« Des boîtes ! Seulement chez moi ! »~
-@100229 = ~« Tout ce qui est en papier ! »~
-@100230 = ~« *FICELLEEE !* »~
-@100231 = ~« Presque prêt à prendre le large, derniers sièges disponibles ! »~
-@100232 = ~« Faites comme un marin et embarquez sur mon radeau ! »~
-@100233 = ~« Ruche-Fossé, Fossé-Ruche, toute la journée, tous les jours ! »~
-@100234 = ~« Vous retournez au Cadavre Calciné ? »~
-@100235 = ~« Hé ! Par ici ! Je vous conduis au centre de la Ruche. »~
-@100236 = ~« Bonjour, bonjour ! »~
+@100215 = ~"Des roses, des roses !"~
+@100216 = ~"Achetez vos fleurs !"~
+@100217 = ~"Des gouttes de pluie sur les roses !"~
+@100218 = ~"Des moustaches de chatons !"~
+@100219 = ~"Des chats, de jolis chats."~
+@100220 = ~"Vous avez toujours rêvé d'un ami qui pourrait vous manger ?"~
+@100221 = ~"De brillantes bouilloires en cuivre !"~
+@100222 = ~"Équipez votre cuisine chez moi !"~
+@100223 = ~"Casseroles et bouilloires !"~
+@100224 = ~"De chaudes moufles en laine !"~
+@100225 = ~"Des chemises légères et amples."~
+@100226 = ~"Des vêtements pour tous les temps !"~
+@100227 = ~"Des paquets en papier brun !"~
+@100228 = ~"Des boîtes ! Seulement chez moi !"~
+@100229 = ~"Tout ce qui est en papier !"~
+@100230 = ~"*FICELLEEE !*"~
+@100231 = ~"Presque prêt à prendre le large, derniers sièges disponibles !"~
+@100232 = ~"Faites comme un marin et embarquez sur mon radeau !"~
+@100233 = ~"Ruche-Fossé, Fossé-Ruche, toute la journée, tous les jours !"~
+@100234 = ~"Vous retournez au Cadavre Fumant ?"~
+@100235 = ~"Hé ! Par ici ! Je vous conduis au centre de la Ruche."~
+@100236 = ~"Bonjour, bonjour !"~
 @100237 = ~Les deux moitiés du Crâne de jade s'attirent instantanément et se reforment en une seule dans un éclair d'énergie verte.~
-@100238 = ~« Puissant Istishia, accepte ce sacrifice afin que ton océan de sang s'étende à jamais. Oui-oui ! »~
-@100239 = ~« Non ! Pitié ! Je vous en supplie ! »~
-@100240 = ~« Bloup, bloupidi, bloup-bloup. Coupe-coupe. »~
-@100241 = ~« GLOIRE, GLOIRE À ISTISHIA ! »~
-@100242 = ~« Alors, qu'est-ce qu'on fait maintenant ? »~
-@100243 = ~« Je sais ! Faufilons-nous dans la Prison ! »~
-@100244 = ~« Et si on volait une clé à Artus ? »~
-@100245 = ~« Je m'ennuie. »~
-@100246 = ~« Je me demande ce qu'il y a de l'autre côté du bord... »~
-@100247 = ~« Ouaaah ! »~
+@100238 = ~"Puissant Istishia, accepte ce sacrifice afin que ton océan de sang s'étende à jamais. Oui-oui !"~
+@100239 = ~"Non ! Pitié ! Je vous en supplie !"~
+@100240 = ~"Bloup, bloupidi, bloup-bloup. Coupe-coupe."~
+@100241 = ~"GLOIRE, GLOIRE À ISTISHIA !"~
+@100242 = ~"Alors, qu'est-ce qu'on fait maintenant ?"~
+@100243 = ~"Je sais ! Faufilons-nous dans la Prison !"~
+@100244 = ~"Et si on volait une clé à Artus ?"~
+@100245 = ~"Je m'ennuie."~
+@100246 = ~"Je me demande ce qu'il y a de l'autre côté du bord..."~
+@100247 = ~"Ouaaah !"~
 @100248 = ~*Renifle*~
-@100249 = ~« Hiiiiiiiaaaah ! »~
-@100250 = ~^0x008000« M'sieur, arrêtez. Y a quelque chose qui va pas... Prod va... »^-~
-@100251 = ~« Hé ! C'est le type qui a tué le patron. Animateur, ramène-toi ! »~
-@100253 = ~« Ce théâtre n'est-il pas magnifique ? »~
-@100256 = ~« Je n'ai rien contre la comédie, mais les plaisanteries doivent avoir un but. »~
-@100257 = ~« Non, je ne crois pas que briser le quatrième mur soit justifié ici. »~
-@100258 = ~« D'accord, ça, c'est plutôt intéressant... »~
-@100262 = ~« On répète encore une fois ? »~
-@100263 = ~« Encore. »~
-@100264 = ~« J'espère que Kirinaldo va mieux. »~
-@100265 = ~« Où est cette doublure ? Il est encore en retard. »~
-@100266 = ~« La troupe de Sigil mérite votre attention et votre jonc. Je vous le garantis ! »~
-@100267 = ~« Si nous jouons bien, la tournée sur le Primaire se financera toute seule. »~
+@100249 = ~"Hiiiiiiiaaaah !"~
+@100250 = ~^0x008000"M'sieur, arrêtez. Y a quelque chose qui va pas... Prod va..."^-~
+@100251 = ~"Hé ! C'est le type qui a tué le patron. Animateur, ramène-toi !"~
+@100253 = ~"Ce théâtre n'est-il pas magnifique ?"~
+@100256 = ~"Je n'ai rien contre la comédie, mais les plaisanteries doivent avoir un but."~
+@100257 = ~"Non, je ne crois pas que briser le quatrième mur soit justifié ici."~
+@100258 = ~"D'accord, ça, c'est plutôt intéressant..."~
+@100262 = ~"On répète encore une fois ?"~
+@100263 = ~"Encore."~
+@100264 = ~"J'espère que Kirinaldo va mieux."~
+@100265 = ~"Où est cette doublure ? Il est encore en retard."~
+@100266 = ~"La troupe de Sigil mérite votre attention et votre jonc. Je vous le garantis !"~
+@100267 = ~"Si nous jouons bien, la tournée sur le Primaire se financera toute seule."~
 
 ////////////////
 // ========== //
@@ -307,7 +307,7 @@
 @300331 = ~Théâtre Sous-le-Masque (détruit)~
 @300397 = ~Méphistar~
 @300398 = ~Shendilavri~
-@300399 = ~Ribcage~
+@300399 = ~Thorace~
 
 ///////////////
 // ========= //
@@ -350,7 +350,7 @@
 @300432 = ~À en juger par les lits et tout le matériel médical, notamment les bandages, médicaments et autres fournitures, il s'agit d'un hôpital de campagne. Les malades reposent sous des couvertures et les lits sont tachés de sang, d'urine et de vomissures. L'odeur est terrible, et même les huiles parfumées appliquées par quelqu'un ne parviennent pas à la masquer.~
 @300435 = ~Au-dessus du symbole d'une main tenant un éclair, une statue monumentale domine les lieux, incarnant la chevalerie, la justice, l'honneur, la vaillance et le courage. S'il s'agit du temple d'un dieu, malgré ses dimensions impressionnantes il paraît solitaire et abandonné.~
 @300436 = ~Cette peinture grossière, soigneusement tracée en blanc sur le mur, représente le symbole de l'Harmonium pendu à une potence.~
-@300437 = ~« Y a-t-il une vie avant la mort ? »~
+@300437 = ~"Y a-t-il une vie avant la mort ?"~
 @300438 = ~Le chariot du marchand ambulant déborde de caisses et de tonneaux contenant ses marchandises. Il se tient dangereusement près du bord.~
 @300439 = ~Le Fossé dépose ses déchets les plus denses dans cette petite baie.~
 @300440 = ~L'étage inférieur de cette maison est entièrement inondé, mais l'eau s'écoule lentement vers un endroit plus profond.~
@@ -373,7 +373,7 @@
 @300457 = ~C'est une pierre sensorielle, mais elle semble factice.~
 @300458 = ~C'est un miracle que cette pyramide de tonneaux en équilibre précaire ne se soit pas effondrée depuis toutes ces années, répandant son contenu sur le sol de la forêt.~
 @300459 = ~Une forêt sauvage et primitive s'étend tout autour de la plateforme à perte de vue.~
-@300460 = ~Au sommet de la paroi abrupte, vous apercevez le « continent » de Sigil. Pas étonnant qu'il ait fallu venir ici en radeau.~
+@300460 = ~Au sommet de la paroi abrupte, vous apercevez le"continent"de Sigil. Pas étonnant qu'il ait fallu venir ici en radeau.~
 @300461 = ~Une vive lumière brille derrière ces barreaux... mais aucune source n'est visible. Le couloir, comme la ruelle, se termine en impasse.~
 @300462 = ~Ce sont les ruines d'un escalier autrefois majestueux.~
 @300463 = ~Une énorme lame rouillée couverte de ronce-rasoir émerge de l'eau. Elle est faite d'un seul bloc de métal. La forge qui a produit ce colosse devait être gigantesque.~
@@ -586,8 +586,8 @@
 @400165 = ~Ignus~
 @400166 = ~Vhailor~
 @400167 = ~Ayryn Farlight~
-@400168 = ~« Sale bâtard menteur »~
-@400169 = ~« Foutu lézard »~
+@400168 = ~"Sale bâtard menteur"~
+@400169 = ~"Foutu lézard"~
 @400170 = ~Menace~
 @400171 = ~Chaman homme-rat~
 @400172 = ~Aubergiste~
@@ -612,9 +612,9 @@ Poids : 0
 
 Ce n'est qu'une feuille de papier ordinaire, portant quelques taches séchées et de l'encre sombre. Les taches pourraient être du sang. Un message a été écrit d'une main tremblante.
 
-^0xff393ffc« Sans-Nom, j'ai entendu dire que tu cherchais des réponses à de nombreuses questions troublantes. Je pourrai peut-être t'aider à éclaircir certains aspects de ton lointain passé. J'ai également une tâche à te proposer qui, en plus des informations que tu recherches, pourrait se révéler très bien payée. Retrouve-moi au Bar du Cadavre Calciné.
+^0xff393ffc"Sans-Nom, j'ai entendu dire que tu cherchais des réponses à de nombreuses questions troublantes. Je pourrai peut-être t'aider à éclaircir certains aspects de ton lointain passé. J'ai également une tâche à te proposer qui, en plus des informations que tu recherches, pourrait se révéler très bien payée. Retrouve-moi au Bar du Cadavre Fumant.
 
-- Tergush'tekhn »^-~
+- Tergush'tekhn"^-~
 @500002 = ~Carreaux de tempête glaciale stygienne~
 @500003 = ~CARREAUX DE TEMPÊTE GLACIALE STYGIENNE
 Enchantement : +3
@@ -634,10 +634,10 @@ Spécial :
  +25 % de résistance au froid et au froid magique
 Poids : 0
 
-Les engelures sont des lésions cutanées temporaires ou permanentes causées par l'exposition aux basses températures. Elles apparaissent généralement sur les parties du corps les plus vulnérables et exposées, comme les oreilles, le nez, les joues, les doigts et les orteils. Afin de protéger cet organe auditif délicat, un Sensate conçut une paire de boucles d'oreilles destinées à protéger les oreilles des engelures, ainsi que des gonflements et de l'éventuelle nécrose qui peuvent en résulter. Grâce à cette protection, il pouvait librement savourer les doux murmures et les sifflements aigus portés par les vents glacials de Cania. Dommage toutefois que ces boucles n'offrent aucune défense contre les griffes des gelugons.~
+Les engelures sont des lésions cutanées temporaires ou permanentes causées par l'exposition aux basses températures. Elles apparaissent généralement sur les parties du corps les plus vulnérables et exposées, comme les oreilles, le nez, les joues, les doigts et les orteils. Afin de protéger cet organe auditif délicat, un Sensat conçut une paire de boucles d'oreilles destinées à protéger les oreilles des engelures, ainsi que des gonflements et de l'éventuelle nécrose qui peuvent en résulter. Grâce à cette protection, il pouvait librement savourer les doux murmures et les sifflements aigus portés par les vents glacials de Cania. Dommage toutefois que ces boucles n'offrent aucune défense contre les griffes des gelugons.~
 @500006 = ~Sifflet d'os~
 @500007 = ~SIFFLET D'OS
-Lance le sort « Force améliorée » une fois par jour
+Lance le sort"Force améliorée"une fois par jour
 Poids : 0
 
 Les archives historiques suggèrent que ces sifflets furent créés pour la première fois dans les Abysses afin que les explorateurs et marchands descendant de la ville-portail de Pestemort vers les strates plus profondes du Plan aient une chance face aux tanar'ris mineurs. Les arpenteurs avisés savent qu'il vaut mieux ne pas s'aventurer trop loin, car la nature chaotique des démons rend les chances de retour encore plus faibles. Malgré tout, il faut être préparé aux dangers les plus imprévisibles, même dans les strates supérieures. Un homme averti en vaut deux.
@@ -697,17 +697,14 @@ Poids : 10
 
 Ces entraves ont été brisées il y a des siècles. Au premier coup d'œil, elles ne semblent d'aucune utilité, mais quelque chose en elles paraît étrange... et familier.~
 @500019 = ~ENTRAVES DE LIBERTÉ DE GRÂCE
-Lance : « Appel de la foudre » une fois par jour
+Lance :"Appel de la foudre"une fois par jour
 Poids : 10
 
-Ce sont les entraves de l'ancienne cellule de Grâce, où elle subit les tortures des baatezus. Le supplice dépasse toute description, mais il laissa une marque si profonde qu'il modifia durablement sa nature tanar'ri. Désormais, ces entraves brisées restent un souvenir indésirable et douloureux du triomphe de la foi et de l'expérience qui lui permit de déjouer ses bourreaux et donna à Grâce l'occasion d'accumuler du savoir dans les Plans qu'elle parcourut ensuite.
-
-« Ma mère était parmi les meilleures, séduisant d'innombrables hommes mortels pour les condamner éternellement. Elle vit maintenant dans les Abysses, où elle vend ses enfants comme esclaves.
+Ce sont les entraves de l'ancienne cellule de Grâce, où elle subit les tortures des baatezus. Le supplice dépasse toute description, mais il laissa une marque si profonde qu'il modifia durablement sa nature tanar'ri. Désormais, ces entraves brisées restent un souvenir indésirable et douloureux du triomphe de la foi et de l'expérience qui lui permit de déjouer ses bourreaux et donna à Grâce l'occasion d'accumuler du savoir dans les Plans qu'elle parcourut ensuite."Ma mère était parmi les meilleures, séduisant d'innombrables hommes mortels pour les condamner éternellement. Elle vit maintenant dans les Abysses, où elle vend ses enfants comme esclaves.
 
 Elle m'a vendue aux baatezus, les ennemis jurés des tanar'ris. Je crois qu'elle s'attendait à ce qu'ils me tuent. Malgré ses connaissances dans d'autres domaines, elle sait peu de choses de leur culture et du plaisir qu'ils prennent à tourmenter les autres.
 
-Heureusement, les baatezus sont une espèce orgueilleuse. L'idée qu'un tanar'ri puisse les surpasser en quoi que ce soit leur était insupportable. J'ai donc défié l'un des plus orgueilleux fiélons des fosses dans un concours d'improvisation, et c'est là que mon cœur tanar'ri m'a permis de l'emporter. Les tanar'ris sont des créatures chaotiques, sauvages et imprévisibles. Les baatezus sont des fiélons plus rusés, au cœur ordonné. Ils comprennent l'improvisation, mais n'en sont pas les meilleurs praticiens. C'est ainsi que j'ai gagné ma liberté. »
-- Grâce~
+Heureusement, les baatezus sont une espèce orgueilleuse. L'idée qu'un tanar'ri puisse les surpasser en quoi que ce soit leur était insupportable. J'ai donc défié l'un des plus orgueilleux fiélons des fosses dans un concours d'improvisation, et c'est là que mon cœur tanar'ri m'a permis de l'emporter. Les tanar'ris sont des créatures chaotiques, sauvages et imprévisibles. Les baatezus sont des fiélons plus rusés, au cœur ordonné. Ils comprennent l'improvisation, mais n'en sont pas les meilleurs praticiens. C'est ainsi que j'ai gagné ma liberté."- Grâce~
 @500020 = ~Gobelet de la taverne Rivergate~
 @500021 = ~GOBELET DE LA TAVERNE RIVERGATE
 Poids : 1
@@ -734,16 +731,14 @@ Ce symbole sacré appartenait autrefois à Soego l'Homme-Poussière. Il est fait
 
 Il a récemment été volé à Soego et a fini par arriver dans la boutique de Queue-Fragile.
 ~
-@500027 = ~« Grimoire du Arpenteur »~
-@500028 = ~« GRIMOIRE DU MARCHEUR DES PLANS »
-Poids : 2
+@500027 = ~"Grimoire du Arpenteur"~
+@500028 = ~"GRIMOIRE DU MARCHEUR DES PLANS"Poids : 2
 
-Ce livre semble avoir exigé une douzaine d'années de travail. Un soin considérable a manifestement été apporté à sa lisibilité et à sa structure méticuleusement organisée. Lorsque vous l'ouvrez, vous découvrez son titre : « Grimoire du Arpenteur ». L'ouvrage semble contenir des notes sur divers aspects du Multivers.~
-@500029 = ~« La Vérité des Plans »~
-@500030 = ~« LA VÉRITÉ DES PLANS »
-Poids : 1
+Ce livre semble avoir exigé une douzaine d'années de travail. Un soin considérable a manifestement été apporté à sa lisibilité et à sa structure méticuleusement organisée. Lorsque vous l'ouvrez, vous découvrez son titre :"Grimoire du Arpenteur". L'ouvrage semble contenir des notes sur divers aspects du Multivers.~
+@500029 = ~"La Vérité des Plans"~
+@500030 = ~"LA VÉRITÉ DES PLANS"Poids : 1
 
-Auteur : David « Zeb » Cook
+Auteur : David"Zeb"Cook
 
 Ce livre explore diverses aventures planaires et les conclusions qu'on peut en tirer, organisées en trois parties :
 
@@ -751,20 +746,18 @@ Ce livre explore diverses aventures planaires et les conclusions qu'on peut en t
 Extraits des carnets de Fallendor le Mage, abordant les sujets suivants : l'aleax (instrument informe de discipline divine né d'une grave transgression envers les dieux), les Dictionnaires de la Douleur appartenant à Ganeesh de Baator (qui décrivent tous les types de souffrance existants, classés selon les réactions corporelles), la Garde Fatale et les autres factions, la géographie de Sigil selon le factol des Greffiers, des interrogations sur la réalité du Multivers, les portails décrits par Prespos d'Iriaebor et une description de la Dame des Douleurs.
 
 2. Voyage dans les Outreterre
-Extraits des journaux inédits d'Ambran le Chercheur, paladin demi-elfe du temple d'Oghma près de la cour d'Azoun Obarskyr IV, roi de Cormyr. Ces journaux relatent les voyages d'Ambran d'une ville-portail à l'autre, notamment la dangereuse Ribcage près de Baator et Automata près de Méchanus. Une leçon essentielle ressort de ces voyages : plus on approche des frontières des Outreterre, plus la région reflète la nature du Plan adjacent.
+Extraits des journaux inédits d'Ambran le Chercheur, paladin demi-elfe du temple d'Oghma près de la cour d'Azoun Obarskyr IV, roi de Cormyr. Ces journaux relatent les voyages d'Ambran d'une ville-portail à l'autre, notamment la dangereuse Thorace près de Baator et Automata près de Méchanus. Une leçon essentielle ressort de ces voyages : plus on approche des frontières des Outreterre, plus la région reflète la nature du Plan adjacent.
 
 3. La Transformation
 Extrait du dernier journal d'Ambran le Chercheur, ancien paladin ayant abandonné son dieu, son nom et son royaume pour demeurer dans les Outreterre. Puisse Oghma lui pardonner sa faute et le roi Azoun le juger avec clémence.~
-@500031 = ~« Feu et Poussière »~
-@500032 = ~« FEU ET POUSSIÈRE »
-Poids : 1
+@500031 = ~"Feu et Poussière"~
+@500032 = ~"FEU ET POUSSIÈRE"Poids : 1
 
 Auteur : James Alan Gardner
 
 Ce livre relate les aventures du peintre sigilien Britlin Cavendish et d'une poignée de compagnons excentriques à travers les différents Plans d'existence. L'histoire commence à Sigil, où Britlin, engagé pour peindre un portrait, assiste accidentellement à un assassinat sanglant.~
-@500033 = ~« L'Arche du Marin ou Dernier Port d'Escalandre »~
-@500034 = ~« L'ARCHE DU MARIN OU DERNIER PORT D'ESCALANDRE »
-Poids : 1
+@500033 = ~"L'Arche du Marin ou Dernier Port d'Escalandre"~
+@500034 = ~"L'ARCHE DU MARIN OU DERNIER PORT D'ESCALANDRE"Poids : 1
 
 Ce livre décrit de manière factuelle l'Arche du Marin, également appelée Portail du Marin ou Dernier Port d'Escalandre. La particularité de cette structure est que le portail mène à des destinations différentes selon la clé utilisée. Il est assez grand pour transporter des navires entiers. La plupart des portails mènent à des lieux du Plan Matériel Primaire, à une exception connue près.
 
@@ -774,7 +767,7 @@ Les notes suivantes ne concernent que des destinations du Plan Matériel Primair
 - Aebrynis : une cascade dans le royaume de Cariele
 - Athas, Mer de Vase : Attention aux monstruosités qui rôdent
 - Îles Sanglantes d'Io : archipel principalement peuplé de dragons
-- Krynn dans Krynnspace : rapides sous un canyon des monts Khalkist. Les habitants appellent « les Abysses » tous les Plans extérieurs au leur
+- Krynn dans Krynnspace : rapides sous un canyon des monts Khalkist. Les habitants appellent"les Abysses"tous les Plans extérieurs au leur
 - Mystara, Côte Sauvage : monde situé dans une sphère de cristal inconnue, l'une des Sept Merveilles du Multivers. Clé : amulette de cinnabryl
 - Oerth dans Greyspace : banc de rochers oblong dans le Nyv Dyr. Plan natal de la liche Vecna
 - Ortho : Plan natal de la faction de l'Harmonium
@@ -782,17 +775,15 @@ Les notes suivantes ne concernent que des destinations du Plan Matériel Primair
 - Toril dans Realmspace : canalisation d'égout provenant de l'Outreterre et se déversant dans la Mer Inviolée
 
 Une question demeure : que se passerait-il si quelqu'un portait toutes les clés à la fois ? Personne n'a essayé et n'est revenu. Pour les plus prudents, il existe toutefois des sorts permettant de protéger les clés qu'on ne souhaite pas utiliser, soit pour éviter les accidents, soit pour ne pas perdre les clés consommables.~
-@500035 = ~« Le Fossé - De Sigil et de la mer »~
-@500036 = ~« LE FOSSÉ - DE SIGIL ET DE LA MER »
-Poids : 1
+@500035 = ~"Le Fossé - De Sigil et de la mer"~
+@500036 = ~"LE FOSSÉ - DE SIGIL ET DE LA MER"Poids : 1
 
 Auteur : William James Cuffe
 
-Tout le monde ne le sait peut-être pas, mais Sigil possède sa propre rivière. Le mot « rivière » est peut-être grandiloquent, mais cette eau est aussi extraordinaire que la Cité des Portes elle-même. L'auteur de ce guide vous invite à une descente imaginaire en radeau le long du Fossé de Sigil.
+Tout le monde ne le sait peut-être pas, mais Sigil possède sa propre rivière. Le mot"rivière"est peut-être grandiloquent, mais cette eau est aussi extraordinaire que la Cité des Portes elle-même. L'auteur de ce guide vous invite à une descente imaginaire en radeau le long du Fossé de Sigil.
 
 Le guide décrit les principaux lieux bordant ce drain large d'une quinzaine de mètres qui s'écoule depuis la Grande Fonderie du Bas-Quartier. Les descriptions les plus détaillées concernent :
-- les Chutes du Suicide : une sorte de presque-cascade où poussent des fleurs appelées « Fleurs du Dernier Baiser »
-- le Pont qui Enjambe les Mondes : considéré par les Sensates comme l'une des Sept Merveilles du Multivers, il abrite sous lui un portail planaire, l'Arche du Marin, qui mène à de nombreuses destinations selon la clé possédée
+- les Chutes du Suicide : une sorte de presque-cascade où poussent des fleurs appelées"Fleurs du Dernier Baiser"- le Pont qui Enjambe les Mondes : considéré par les Sensats comme l'une des Sept Merveilles du Multivers, il abrite sous lui un portail planaire, l'Arche du Marin, qui mène à de nombreuses destinations selon la clé possédée
 - l'épave du navire du Consortium Commercial venu du Phlogiston et le Couteau dans la Rivière voisin : un morceau de métal qui serait le vestige d'un autre navire détruit par la colère de la Dame des Douleurs
 - l'Écluse des Marqués : branche artificielle du Fossé contrôlée par les Marqués
 - les Points de Suture Industriels : situés près de la Grande Fonderie et contrôlés par les Hommes-Dieux. Nommés d'après leur ressemblance avec des points de suture recouvrant une vilaine plaie, ils constituent la principale source de pollution du secteur et provoquent de vives protestations de la secte des Porteurs de Rose
@@ -801,9 +792,8 @@ L'auteur aborde également d'autres sujets, notamment :
 - les clés de portail et le sort Cape-clé, qui protège contre leur activation accidentelle
 - les liaisons par portail vers Ortho, Plan natal de l'Harmonium, le Rocher de Bral dans l'Espace sauvage et les Îles Sanglantes d'Io
 - les légendes de Cassie, la Bête du Fossé qui rôde dans les eaux troubles~
-@500037 = ~« Le Jour de Grâce »~
-@500038 = ~« LE JOUR DE GRÂCE »
-Poids : 1
+@500037 = ~"Le Jour de Grâce"~
+@500038 = ~"LE JOUR DE GRÂCE"Poids : 1
 
 Auteur : Monte Cook
 
@@ -811,12 +801,12 @@ Ce petit livre raconte une histoire réconfortante sur la célébration du Jour 
 
 L'événement se produisit le dernier jour de l'année selon les registres des Greffiers et toucha si profondément les habitants de Sigil que la fête prit ce nom, encourageant chacun à traiter ses voisins avec un peu plus de bonté. Les exécutions publiques, flagellations et autres châtiments sont suspendus ce jour-là. On raconte que violer cette coutume pourrait attirer l'attention de la Dame.
 
-Les marchands organisent des promotions temporaires et chaque faction célèbre à sa façon. Les Sensates inventent chaque année de nouvelles manières de témoigner de la bonté et, chose surprenante, les Têtes-de-Bois organisent même une parade. Ce jour-là, la violence est largement mise de côté.~
+Les marchands organisent des promotions temporaires et chaque faction célèbre à sa façon. Les Sensats inventent chaque année de nouvelles manières de témoigner de la bonté et, chose surprenante, les Têtes-de-Bois organisent même une parade. Ce jour-là, la violence est largement mise de côté.~
 @500039 = ~Les Analectes de Sigil~
 @500040 = ~LES ANALECTES DE SIGIL
 Poids : 1
 
-Auteur : David « Zeb » Cook
+Auteur : David"Zeb"Cook
 
 Des analectes sont une sélection de fragments ou d'œuvres complètes d'un auteur, accompagnés de notes sur leurs sources. Ici, ils présentent la confession du défunt Handulus, érudit de troisième rang, telle qu'elle fut consignée par Jerak des Rectifieurs devant des témoins désignés.
 
@@ -875,7 +865,7 @@ Cette épée courte d'acier vert est l'une des armes préférées de Haer'Dalis,
 @500050 = ~PROD
 Poids : 7
 
-Prod est un imp qui travaille avec Tergush'tekhn et les fiélons du Bar du Cadavre Calciné. Il n'est guère apprécié dans le secteur, alors il se cache des regards indiscrets dans votre sac. Sa petite taille lui permet d'y tenir sans déranger le reste de vos affaires.
+Prod est un imp qui travaille avec Tergush'tekhn et les fiélons du Bar du Cadavre Fumant. Il n'est guère apprécié dans le secteur, alors il se cache des regards indiscrets dans votre sac. Sa petite taille lui permet d'y tenir sans déranger le reste de vos affaires.
 
 Prod ressemble à un imp assez ordinaire. Sa peau est grisâtre et sa silhouette voûtée et maigre n'impressionne personne. Les membranes de ses ailes de chauve-souris ont probablement connu des jours meilleurs. Certains trous semblent récents et sont vraisemblablement l'œuvre de Joseph et de ses hommes. Prod ne paraît pas s'en soucier et vous ignorez si ses ailes guériront. Malgré tout, l'imp déborde d'enthousiasme à l'idée du voyage qui s'annonce.~
 @500051 = ~Fiole de karach~
@@ -885,8 +875,7 @@ Poids : 0
 C'est une petite fiole, mais la matière argentée, vive et tourbillonnante qu'elle contient semble capable de gonfler jusqu'à plusieurs fois sa taille et de faire éclater le délicat récipient à tout instant.~
 @500053 = ~Parchemin de Boule de feu~
 @500054 = ~PARCHEMIN DE BOULE DE FEU
-Permet de lancer « Boule de feu »
-Permet de recopier « Boule de feu » dans le livre de sorts.
+Permet de lancer"Boule de feu"Permet de recopier"Boule de feu"dans le livre de sorts.
 Niveau : 3 / Magicien
 Portée : 12 mètres
 Durée : instantanée
@@ -902,8 +891,7 @@ Ce sort, très populaire sur le Plan Matériel Primaire, permet au mage de crée
 Une seule Boule de feu inflige 1-6 points de dégâts par niveau du mage (maximum 6-60). Un jet de sauvegarde réussi réduit les dégâts de moitié. Le sort est si puissant pour son niveau que l'histoire mentionne les recherches de l'archimage Tenser pour le rendre moins destructeur. Car la puissance est une chose, l'efficacité en est une autre. Et le feu obéit à ses propres règles.~
 @500055 = ~Parchemin de Flétrissure abominable~
 @500056 = ~PARCHEMIN DE FLÉTRISSURE ABOMINABLE
-Permet de lancer « Flétrissure abominable »
-Permet de recopier « Flétrissure abominable » dans le livre de sorts.
+Permet de lancer"Flétrissure abominable"Permet de recopier"Flétrissure abominable"dans le livre de sorts.
 Niveau : 8 / Magicien
 Portée : 12 mètres
 Durée : instantanée
@@ -917,8 +905,7 @@ Ce sort dévastateur, né de l'imagination démente du nécromancien élémental
 Toutes les créatures vivantes dans la zone d'effet subissent 1-8 points de dégâts par niveau du lanceur, jusqu'à un maximum de 25-200 points.~
 @500057 = ~Parchemin de Désintégration~
 @500058 = ~PARCHEMIN DE DÉSINTÉGRATION
-Permet de lancer « Désintégration »
-Permet de recopier « Désintégration » dans le livre de sorts.
+Permet de lancer"Désintégration"Permet de recopier"Désintégration"dans le livre de sorts.
 Niveau : 6 / Magicien
 Portée : 12 mètres
 Durée : instantanée
@@ -932,8 +919,7 @@ La décomposition d'un tout en fragments. L'élimination de son intégrité. La 
 Ce sort peut être bloqué par la résistance à la magie ou par une protection magique appropriée. S'il peut se révéler inefficace contre des ennemis très puissants, il élimine facilement les plus faibles.~
 @500059 = ~Parchemin d'Abaissement de la résistance~
 @500060 = ~PARCHEMIN D'ABAISSEMENT DE LA RÉSISTANCE
-Permet de lancer « Abaissement de la résistance »
-Permet de recopier « Abaissement de la résistance » dans le livre de sorts.
+Permet de lancer"Abaissement de la résistance"Permet de recopier"Abaissement de la résistance"dans le livre de sorts.
 Niveau : 5 / Magicien
 Portée : 9 mètres
 Durée : 5 secondes par niveau
@@ -947,8 +933,7 @@ Certains mages lancent leurs sorts à l'aveuglette en espérant que l'un d'eux p
 Ce sort réduit au minimum la résistance à la magie de la cible. Il permet ainsi de franchir complètement les défenses même des lanceurs de sorts les plus puissants.~
 @500061 = ~Parchemin de Cri de la banshee~
 @500062 = ~PARCHEMIN DE CRI DE LA BANSHEE
-Permet de lancer « Cri de la banshee »
-Permet de recopier « Cri de la banshee » dans le livre de sorts.
+Permet de lancer"Cri de la banshee"Permet de recopier"Cri de la banshee"dans le livre de sorts.
 Niveau : 9 / Magicien
 Portée : 0
 Durée : instantanée
@@ -957,7 +942,7 @@ Zone d'effet : rayon de 4,5 m autour du lanceur
 Jet de sauvegarde : annule
 Poids : 0
 
-Les banshees, dont le nom signifie « femmes du tertre féerique », sont également appelées esprits gémissants ou fantômes hurlants. Ce sont de cruels spectres qui auraient été, de leur vivant, des femmes elfes maléfiques. Sous leur forme brumeuse, elles drainent l'énergie des environs et font flétrir la végétation sous leur passage. Pour les gens ordinaires, elles annoncent la mort. Pour les arpenteurs, elles constituent une menace réellement mortelle.
+Les banshees, dont le nom signifie"femmes du tertre féerique", sont également appelées esprits gémissants ou fantômes hurlants. Ce sont de cruels spectres qui auraient été, de leur vivant, des femmes elfes maléfiques. Sous leur forme brumeuse, elles drainent l'énergie des environs et font flétrir la végétation sous leur passage. Pour les gens ordinaires, elles annoncent la mort. Pour les arpenteurs, elles constituent une menace réellement mortelle.
 
 Grâce à ce sort terrifiant, le lanceur peut pousser de sa propre gorge un hurlement perçant audible dans un rayon de 4,5 mètres. Toute personne qui l'entend meurt instantanément à moins de réussir un jet de sauvegarde contre la mort. Le lanceur et ses compagnons sont immunisés contre le cri.~
 @500063 = ~Clé des arrière-salles du Rat and Splat~
@@ -990,8 +975,7 @@ Inutilisable par les prêtres.
 Voici un éclat que vous avez réussi à arracher au golem de pierre de Lothar. Il contient peut-être une parcelle de sa puissance. Quelqu'un ayant des besoins très particuliers saurait assurément reconnaître sa valeur. À défaut, il peut toujours servir d'arme.~
 @500071 = ~Lait de Shina-Tsu-Hiko~
 @500072 = ~LAIT DE SHINA-TSU-HIKO
-Lance : « Hâte »
-Poids : 1
+Lance :"Hâte"Poids : 1
 
 Shina-Tsu-Hiko est une divinité du vent résidant dans les Limbes, qui serait née du souffle d'Izanagi le Créateur lui-même. Shina-Tsu-Hiko possède le pouvoir de commander aux vents, apportant aussi bien de douces pluies que des tempêtes dévastatrices. Cette boisson ne provient pas littéralement de lui, mais elle a été sanctifiée par sa magnifique puissance.
 
@@ -1017,8 +1001,7 @@ Voici une bobine de fil et une petite aiguille en os. Elles semblent destinées 
 L'aiguille semble ordinaire, pourtant elle recèle un pouvoir dissimulé. Lorsque vous la touchez, des images semblent se former dans votre esprit. L'une d'elles domine toutes les autres : une meule de foin, sa prison de longue durée, dont elle fut sauvée par quelque héros oublié mais attentif. Cette aiguille est désormais un artefact, une métaphore vivante d'un trésor caché. Elle demeure dissimulée même aux yeux du marchand qui l'a vendue. Seuls quelques êtres peuvent la voir telle qu'elle est réellement.~
 @500077 = ~Parchemin de Hâte~
 @500078 = ~PARCHEMIN DE HÂTE
-Permet de lancer « Hâte »
-Permet de recopier « Hâte » dans le livre de sorts.
+Permet de lancer"Hâte"Permet de recopier"Hâte"dans le livre de sorts.
 Niveau : 3 / Magicien
 Portée : 4,5 m
 Durée : (5 secondes par niveau) + 15 secondes
@@ -1036,9 +1019,7 @@ Ce sort ne se cumule ni avec lui-même ni avec une magie similaire. L'incantatio
 @500080 = ~DIRECTIVES XAOSITECTES ?
 Poids : 0
 
-Cette lettre a été écrite par un Xaositecte. Vous ignorez de quoi elle parle, mais une voix intérieure vous dit que ce charabia constitue une sorte de directive. Malheureusement, toute tentative pour lui trouver un sens ne fait que fatiguer inutilement votre esprit.
-
-« J'ai mangé cinq chats une fois. Le bonbon dans la bouche de nuit s'est allumé. Fraîches sont les casseroles pleines d'eau, mais la neige digère l'herbe. Le serpent ne peut pas ? Et quel destin sonne dans les replis sinueux de deux bougies ? Demande au tabouret, je répondrai bravement... Je l'ai bu et craie blanche. Regarde. »~
+Cette lettre a été écrite par un Xaositecte. Vous ignorez de quoi elle parle, mais une voix intérieure vous dit que ce charabia constitue une sorte de directive. Malheureusement, toute tentative pour lui trouver un sens ne fait que fatiguer inutilement votre esprit."J'ai mangé cinq chats une fois. Le bonbon dans la bouche de nuit s'est allumé. Fraîches sont les casseroles pleines d'eau, mais la neige digère l'herbe. Le serpent ne peut pas ? Et quel destin sonne dans les replis sinueux de deux bougies ? Demande au tabouret, je répondrai bravement... Je l'ai bu et craie blanche. Regarde."~
 @500081 = ~Robe des Vaincus~
 @500082 = ~ROBE DES VAINCUS
 Propriétés :
@@ -1068,9 +1049,8 @@ Poids : 2
 
 Étonnamment, vous avez trouvé une sorte de pierre sensorielle. Est-elle perdue ou non enregistrée ?
 Elle est sale et abîmée, mais fonctionne toujours.~
-@500087 = ~« Danseur captif »~
-@500088 = ~« DANSEUR CAPTIF »
-Poids : 1
+@500087 = ~"Danseur captif"~
+@500088 = ~"DANSEUR CAPTIF"Poids : 1
 
 C. S. Macat
 
@@ -1078,31 +1058,9 @@ Le sultan d'Aharaj promena un regard alangui sur ses dernières acquisitions et 
 
 Devant le trône, soigneusement alignés, se tenaient des esclaves de races et de sexes divers destinés au harem, tous jeunes et d'une beauté incomparable, vêtus uniquement de chaînes et de châles colorés qui soulignaient leurs charmes bien davantage qu'ils ne préservaient leur pudeur. La plupart gardaient les yeux baissés, par honte, peur ou gêne devant la splendeur de la cour. Un seul homme ne détourna pas ses yeux brillants lorsqu'ils rencontrèrent ceux du sultan. Comme c'était intriguant. Le souverain l'examina avec une curiosité renouvelée.
 
-Des oreilles pointues dépassaient de ses longs cheveux blonds. Il était grand et mince, doté de muscles saillants, surtout aux jambes, sous une peau pâle. Était-ce un guerrier ? Non, probablement pas. Un acrobate ? Un artiste de cirque ? Les tatouages qui couvraient presque tout son corps suggéraient un passé de bohème.
+Des oreilles pointues dépassaient de ses longs cheveux blonds. Il était grand et mince, doté de muscles saillants, surtout aux jambes, sous une peau pâle. Était-ce un guerrier ? Non, probablement pas. Un acrobate ? Un artiste de cirque ? Les tatouages qui couvraient presque tout son corps suggéraient un passé de bohème."Tourne-toi", ordonna le sultan.
 
-« Tourne-toi », ordonna le sultan.
-
-L'homme n'hésita pas. Il s'inclina comme s'il était habitué à l'attention et à l'adoration d'une foule, puis obéit avec grâce. Le sultan s'émerveilla devant les délicates lignes d'encre noire qui s'enroulaient autour de son torse et de ses membres. Certaines formaient des spirales abstraites ; d'autres dessinaient grossièrement des dagues, des épées et diverses armes de poing. De subtils arcs évoquant des ailes étaient tatoués sur ses omoplates.
-
-« Tes tatouages. Que signifient-ils ? » demanda le sultan.
-
-« Ils attirent le regard quand je monte sur scène », répondit-il. Sa voix était grave et forte, au timbre chaleureux. « Je gagnais autrefois ma vie comme danseur. J'utilisais souvent des couteaux dans mes numéros. Je peux... »
-
-Le sultan leva la main. Le jeune homme se tut. Soit le vizir avait remarquablement dressé les esclaves, soit le danseur savait instinctivement comment répondre aux attentes de son maître. Et ces couteaux dont il parlait... Oui, il serait parfait.
-
-« Je me moque de ce que tu étais et de ce que tu faisais autrefois », déclara le sultan. « Ton passé n'a aucune importance. Désormais, tu es mon esclave de plaisir, mon animal, mon jouet. Tu ne vis que parce que je le permets. Comprends-tu ? »
-
-« Bien sûr, Votre Éclat. Je ne suis qu'un grain de poussière sans valeur sous votre talon. »
-
-Le sultan sourit. Parfait. Le jeune homme correspondait exactement à ses préférences : intelligent, docile, magnifique. Il serait encore plus beau lorsque le désespoir emplirait ses yeux pour la première fois, puis lorsqu'ils deviendraient vides après qu'il aurait compris qu'aucun salut ne l'attendait. Quel plaisir ce serait de le briser.
-
-« Désormais, tu t'appelles Aotari, comme tous les favoris qui t'ont précédé. »
-
-« Comme il vous plaira, Votre Éclat. »
-
-« Excellent. Serviteurs ! » Quelques domestiques cachés dans l'ombre se mirent aussitôt au garde-à-vous, craignant même de respirer. « Lavez-le et préparez-le. Dans une heure, je le veux prêt dans mes appartements. »
-
-« Oui, Votre Éclat ! » répondirent les domestiques à l'unisson. Sous la surveillance des gardes, ils emmenèrent l'homme. Avant de partir, le danseur jeta un regard par-dessus son épaule vers le souverain ; ses yeux reflétaient à la fois l'incertitude et l'espoir.
+L'homme n'hésita pas. Il s'inclina comme s'il était habitué à l'attention et à l'adoration d'une foule, puis obéit avec grâce. Le sultan s'émerveilla devant les délicates lignes d'encre noire qui s'enroulaient autour de son torse et de ses membres. Certaines formaient des spirales abstraites ; d'autres dessinaient grossièrement des dagues, des épées et diverses armes de poing. De subtils arcs évoquant des ailes étaient tatoués sur ses omoplates."Tes tatouages. Que signifient-ils ?"demanda le sultan."Ils attirent le regard quand je monte sur scène", répondit-il. Sa voix était grave et forte, au timbre chaleureux."Je gagnais autrefois ma vie comme danseur. J'utilisais souvent des couteaux dans mes numéros. Je peux..."Le sultan leva la main. Le jeune homme se tut. Soit le vizir avait remarquablement dressé les esclaves, soit le danseur savait instinctivement comment répondre aux attentes de son maître. Et ces couteaux dont il parlait... Oui, il serait parfait."Je me moque de ce que tu étais et de ce que tu faisais autrefois", déclara le sultan."Ton passé n'a aucune importance. Désormais, tu es mon esclave de plaisir, mon animal, mon jouet. Tu ne vis que parce que je le permets. Comprends-tu ?""Bien sûr, Votre Éclat. Je ne suis qu'un grain de poussière sans valeur sous votre talon."Le sultan sourit. Parfait. Le jeune homme correspondait exactement à ses préférences : intelligent, docile, magnifique. Il serait encore plus beau lorsque le désespoir emplirait ses yeux pour la première fois, puis lorsqu'ils deviendraient vides après qu'il aurait compris qu'aucun salut ne l'attendait. Quel plaisir ce serait de le briser."Désormais, tu t'appelles Aotari, comme tous les favoris qui t'ont précédé.""Comme il vous plaira, Votre Éclat.""Excellent. Serviteurs !"Quelques domestiques cachés dans l'ombre se mirent aussitôt au garde-à-vous, craignant même de respirer."Lavez-le et préparez-le. Dans une heure, je le veux prêt dans mes appartements.""Oui, Votre Éclat !"répondirent les domestiques à l'unisson. Sous la surveillance des gardes, ils emmenèrent l'homme. Avant de partir, le danseur jeta un regard par-dessus son épaule vers le souverain ; ses yeux reflétaient à la fois l'incertitude et l'espoir.
 
 Le sultan avait hâte d'éteindre cette étincelle d'espoir.
 
@@ -1110,33 +1068,13 @@ Le sultan avait hâte d'éteindre cette étincelle d'espoir.
 
 Une heure exactement plus tard, le sultan était allongé sur son lit au milieu des coussins et regardait les domestiques et les gardes quitter la chambre. Aotari et lui étaient seuls. Le danseur ne portait que ses chaînes, mais ne semblait nullement inquiet. Il attendait calmement, le visage vide.
 
-Le sultan hocha la tête, satisfait. « Avant que nous commencions, sache ceci : j'ignore à quoi tu penses, Aotari, mais mes gardes sont postés derrière ces murs. Il me suffit d'un mot pour qu'ils accourent et te massacrent. N'essaie pas de t'échapper. Les fenêtres sont ouvertes, mais souviens-toi que nous sommes au quatrième étage, avec des marches de marbre en dessous. Ne fais rien de stupide. Tu n'es pas stupide, n'est-ce pas, Aotari ? »
-
-« Je ne le suis pas, Votre Éclat. »
-
-« Tant mieux. Nous allons beaucoup nous amuser. Je crois que nous commencerons par les couteaux. Je ne suis peut-être pas danseur comme toi, mais je peux moi aussi me montrer très créatif avec eux. D'abord... »
-
-« Vous aimez vraiment vous écouter parler, n'est-ce pas ? »
-
-Les yeux du sultan s'écarquillèrent devant cette insolence. Aotari le fixait avec un défi glacial, si différent de sa déférence précédente, mais peu importait. Personne n'interrompait le souverain.
+Le sultan hocha la tête, satisfait."Avant que nous commencions, sache ceci : j'ignore à quoi tu penses, Aotari, mais mes gardes sont postés derrière ces murs. Il me suffit d'un mot pour qu'ils accourent et te massacrent. N'essaie pas de t'échapper. Les fenêtres sont ouvertes, mais souviens-toi que nous sommes au quatrième étage, avec des marches de marbre en dessous. Ne fais rien de stupide. Tu n'es pas stupide, n'est-ce pas, Aotari ?""Je ne le suis pas, Votre Éclat.""Tant mieux. Nous allons beaucoup nous amuser. Je crois que nous commencerons par les couteaux. Je ne suis peut-être pas danseur comme toi, mais je peux moi aussi me montrer très créatif avec eux. D'abord...""Vous aimez vraiment vous écouter parler, n'est-ce pas ?"Les yeux du sultan s'écarquillèrent devant cette insolence. Aotari le fixait avec un défi glacial, si différent de sa déférence précédente, mais peu importait. Personne n'interrompait le souverain.
 
 Il fallait apprendre le respect à ce jeune effronté. Le sultan ouvrit la bouche pour appeler les gardes, mais aucun son n'en sortit. Surpris, il porta les mains à sa gorge. Il hurla, en vain. Il ne comprenait pas ce qui se passait.
 
-Il leva vers l'esclave un regard interrogateur et comprit avec horreur que les lignes sur ses épaules luisaient doucement d'un violet étrange, formant un glyphe inconnu.
+Il leva vers l'esclave un regard interrogateur et comprit avec horreur que les lignes sur ses épaules luisaient doucement d'un violet étrange, formant un glyphe inconnu."Je suis sûr que vous vous demandez ce qui vient de se passer", dit le danseur avec désinvolture."Je ne vais pas vous laisser dans le noir. Des runes de mon pays sont dissimulées dans mes tatouages. Elles représentent une magie étrangère totalement inconnue ici, si bien que vos sages n'ont pas pu les détecter. C'est précisément pour cela que mon ordre a été choisi pour cette mission. Je suis un grimoire vivant qui parcourt les Plans."La posture et l'expression du jeune homme avaient complètement changé. Il ressemblait à un cobra, un prédateur mortel prêt à frapper. Non par haine, mais parce que telle était sa nature."Nous n'avons pas beaucoup de temps, mais la courtoisie et mon code exigent que vous compreniez au moins pourquoi je suis ici et pourquoi j'exécute ce contrat. Sultan d'Aharaj, vous mourrez aujourd'hui de ma main parce que votre fils aîné s'est lassé d'attendre votre disparition. Il a payé une fortune pour accélérer votre abdication définitive. Les informations qu'il a fournies, notamment vos préférences en matière d'esclaves, se sont révélées très utiles. M'introduire dans le palais et gagner votre faveur fut un jeu d'enfant. Il est maintenant temps d'en finir. Les Ba'al Verzi vous présentent leurs salutations."Les chaînes tombèrent au sol, impuissantes face à sa magie. L'homme fit un geste du poignet, et le tatouage d'une dague courbe sur son avant-bras glissa jusqu'à sa main pour devenir une véritable lame.
 
-« Je suis sûr que vous vous demandez ce qui vient de se passer », dit le danseur avec désinvolture. « Je ne vais pas vous laisser dans le noir. Des runes de mon pays sont dissimulées dans mes tatouages. Elles représentent une magie étrangère totalement inconnue ici, si bien que vos sages n'ont pas pu les détecter. C'est précisément pour cela que mon ordre a été choisi pour cette mission. Je suis un grimoire vivant qui parcourt les Plans. »
-
-La posture et l'expression du jeune homme avaient complètement changé. Il ressemblait à un cobra, un prédateur mortel prêt à frapper. Non par haine, mais parce que telle était sa nature.
-
-« Nous n'avons pas beaucoup de temps, mais la courtoisie et mon code exigent que vous compreniez au moins pourquoi je suis ici et pourquoi j'exécute ce contrat. Sultan d'Aharaj, vous mourrez aujourd'hui de ma main parce que votre fils aîné s'est lassé d'attendre votre disparition. Il a payé une fortune pour accélérer votre abdication définitive. Les informations qu'il a fournies, notamment vos préférences en matière d'esclaves, se sont révélées très utiles. M'introduire dans le palais et gagner votre faveur fut un jeu d'enfant. Il est maintenant temps d'en finir. Les Ba'al Verzi vous présentent leurs salutations. »
-
-Les chaînes tombèrent au sol, impuissantes face à sa magie. L'homme fit un geste du poignet, et le tatouage d'une dague courbe sur son avant-bras glissa jusqu'à sa main pour devenir une véritable lame.
-
-Le sultan gémit et recula jusqu'à heurter le mur. Il voulait supplier, promettre de l'or et des honneurs, mais le sort de silence le retenait. Il ne pouvait qu'observer, impuissant, le jeune homme s'approcher avec la grâce légère d'un danseur et la précision mortelle d'un assassin.
-
-« Ne vous inquiétez pas, sultan. Je ne suis pas comme vous. Je ne fais pas souffrir mes victimes inutilement. La fin sera rapide. »
-
-La dague fendit l'air puis la peau du sultan si vite que la douleur ne l'atteignit que quelques instants plus tard. Du sang chaud coula le long de son cou. Les ténèbres l'emportèrent rapidement.
+Le sultan gémit et recula jusqu'à heurter le mur. Il voulait supplier, promettre de l'or et des honneurs, mais le sort de silence le retenait. Il ne pouvait qu'observer, impuissant, le jeune homme s'approcher avec la grâce légère d'un danseur et la précision mortelle d'un assassin."Ne vous inquiétez pas, sultan. Je ne suis pas comme vous. Je ne fais pas souffrir mes victimes inutilement. La fin sera rapide."La dague fendit l'air puis la peau du sultan si vite que la douleur ne l'atteignit que quelques instants plus tard. Du sang chaud coula le long de son cou. Les ténèbres l'emportèrent rapidement.
 
 La dernière chose que vit le sultan fut un magnifique jeune homme se dirigeant vers la fenêtre d'un pas léger. Le tatouage dans son dos scintilla et se déploya en une paire d'ailes emplumées. Les rayons du soleil couchant teintèrent ses cheveux dorés de roux, comme du sang coagulé.
 
@@ -1147,27 +1085,11 @@ Poids : 0
 
 *Avant de voir la lumière, tu dois mourir.*
 
-Page du journal d'un matois anonyme. Un guerrier-voyageur oublié, combattant pour un bien mystique.
-
-« * »
-
-À chaque pas, une ombre. Derrière elles, les morts-vivants. Ils avançaient, chaînes et bracelets d'or, parures de vies de toutes sortes, cliquetant contre leurs vieux os. Que reste-t-il d'autre de ces jours ? Désormais, seule la haine de la vie couve dans ces crânes. Ils rient à mon visage, mauvais et macabres.
+Page du journal d'un matois anonyme. Un guerrier-voyageur oublié, combattant pour un bien mystique."*"À chaque pas, une ombre. Derrière elles, les morts-vivants. Ils avançaient, chaînes et bracelets d'or, parures de vies de toutes sortes, cliquetant contre leurs vieux os. Que reste-t-il d'autre de ces jours ? Désormais, seule la haine de la vie couve dans ces crânes. Ils rient à mon visage, mauvais et macabres.
 
 Des voix surnaturelles halètent autour de mon âme comme le vent autour des chevilles des pendus. Mais je dois avancer jusqu'au bout.
 
-Ils attaquent !
-
-« * »
-
-Étincelle : je réussirai. Je vaincrai. Un coup rouvre d'anciennes blessures, cicatrices de désespoir et de douleur. Comment quelque chose que je n'ai plus peut-il encore me faire souffrir ?
-
-« * »
-
-Dans ces corridors sinueux, des bougies assoiffées d'oxygène tremblent devant mes yeux, obscurcissant davantage ma vision qu'elles n'éclairent mon chemin. Je ne sais plus s'il s'agit d'une hallucination, d'un rêve ou de la réalité. Je vois des choses qui ne devraient pas être là, j'entends des choses que personne ne devrait connaître et je sens le contact familier de quelqu'un qui n'est plus vivant. Ces illusions et tromperies sont caractéristiques de cet endroit, des mirages envoyant leurs salutations depuis les Abysses. Plus on descend, plus ils deviennent intenses.
-
-« * »
-
-J'ai échoué. Je traîne mes pieds sans vie et j'écris avec mes dernières forces. Ils sont si nombreux ici, exactement comme moi, les vaincus. Ils ont échoué, et maintenant leurs os et leurs crânes reposent ici comme des trophées. Certains rejoindront l'armée qui m'a vaincu. Seule la mort est... Même elle a échoué ici.~
+Ils attaquent !"*"Étincelle : je réussirai. Je vaincrai. Un coup rouvre d'anciennes blessures, cicatrices de désespoir et de douleur. Comment quelque chose que je n'ai plus peut-il encore me faire souffrir ?"*"Dans ces corridors sinueux, des bougies assoiffées d'oxygène tremblent devant mes yeux, obscurcissant davantage ma vision qu'elles n'éclairent mon chemin. Je ne sais plus s'il s'agit d'une hallucination, d'un rêve ou de la réalité. Je vois des choses qui ne devraient pas être là, j'entends des choses que personne ne devrait connaître et je sens le contact familier de quelqu'un qui n'est plus vivant. Ces illusions et tromperies sont caractéristiques de cet endroit, des mirages envoyant leurs salutations depuis les Abysses. Plus on descend, plus ils deviennent intenses."*"J'ai échoué. Je traîne mes pieds sans vie et j'écris avec mes dernières forces. Ils sont si nombreux ici, exactement comme moi, les vaincus. Ils ont échoué, et maintenant leurs os et leurs crânes reposent ici comme des trophées. Certains rejoindront l'armée qui m'a vaincu. Seule la mort est... Même elle a échoué ici.~
 @500091 = ~Sceau de l'archonte~
 @500092 = ~Sceau sacré de la Connaissance~
 @500093 = ~SCEAU DE L'ARCHONTE
@@ -1197,59 +1119,12 @@ Ces boucles d'oreilles ont une histoire tout à fait singulière, si l'on en cro
 Les boucles sont faites d'os de géant du givre, raison pour laquelle elles devraient ouvrir le portail mobile vers Cania. Le géant du givre était un lointain ancêtre d'Ulfbrand. Ces boucles sont très anciennes, bien qu'il faille reconnaître qu'elles sont laides. Aucun artisan sérieux n'aurait pu les fabriquer.
 
 Voici la boucle retrouvée en Cania sur le corps de l'un des voleurs hommes-rats.~
-@500100 = ~« La Promesse »~
-@500101 = ~« LA PROMESSE »
-Poids : 1
+@500100 = ~"La Promesse"~
+@500101 = ~"LA PROMESSE"Poids : 1
 
-par Gideon Songblade
+par Gideon Songblade"Maman, tu m'as trouvé dans une fleur ?"Les longs doigts d'Arlette s'immobilisèrent sur les cordes argentées de sa harpe. Un silence complet, si profond qu'il semblait résonner dans la chambre, remplaça la magnifique mélodie. Elle regarda le petit garçon à moitié allongé sur le sol de marbre parmi des feuilles de papier éparpillées et des peintures colorées. Elle avait cru Aster totalement absorbé par la création d'une prairie, mais son esprit curieux s'était manifestement aventuré ailleurs."Pourquoi me demandes-tu ça, mon trésor ?""Parce que j'ai joué avec les fées hier et qu'elles m'ont dit qu'elles naissaient dans les boutons de fleurs. Elles m'ont même montré un arbre où ça arrive !""Vraiment ?""Oui ! Les fées mentent pas !"Arlette lui adressa un sourire chaleureux."En effet. Les créatures féeriques ne peuvent pas mentir.""Alors... tu m'as trouvé dans une fleur ou pas ?""Et toi, qu'en penses-tu, mon trésor ?""Je sais pas. Les fleurs de l'arbre étaient toutes petites. Je crois pas que j'aurais tenu dedans."Arlette pencha pensivement la tête, laissant ses boucles dorées cascader sur sa robe de lierre qui s'enroulait étroitement autour de son corps. Si l'on prêtait attention à la façon dont le temps s'écoulait sur le Plan Matériel, Aster avait déjà six ans. Rien d'étonnant à ce qu'il commence à poser des questions. Le moment était peut-être venu d'y répondre."Non, mon trésor. Je ne t'ai pas trouvé dans une fleur. Je t'ai trouvé dans un berceau."Le garçon fronça les sourcils. Il n'avait jamais entendu ce mot et n'arrivait pas à imaginer ce qu'il signifiait."C'est quoi, un berceau ?""Un lit pour les tout petits enfants. La femme qui t'a mis au monde t'y avait couché pour dormir.""Une femme ?"Aster fronça les sourcils."Qui ? Une autre maman ?""Non ! Elle t'a donné naissance, mais tu es à moi !"Les yeux violets d'Arlette étincelèrent, mais la tempête de colère passa vite et ne laissa derrière elle que la douceur d'un matin ensoleillé."Cette femme est venue dans la forêt et a prié l'arbre sacré de l'aider. Je l'ai entendue à travers les Plans et j'ai conclu un pacte avec elle. Elle a accepté de rembourser mon aide avec son plus grand trésor. J'ai tenu ma part du marché, mais pas elle. Elle a essayé de m'acheter avec de l'or et des babioles sans valeur, puis elle a tenté de fuir. Mais on ne peut pas échapper à une promesse. Je t'ai donné ton vrai nom. Tu es à moi."Arlette se souvenait encore de l'odeur métallique et étouffante qui emplissait la pièce lorsqu'elle avait marché pieds nus dans les flaques de sang provenant des corps de cette femme obstinée et de son mari.
 
-« Maman, tu m'as trouvé dans une fleur ? »
-
-Les longs doigts d'Arlette s'immobilisèrent sur les cordes argentées de sa harpe. Un silence complet, si profond qu'il semblait résonner dans la chambre, remplaça la magnifique mélodie. Elle regarda le petit garçon à moitié allongé sur le sol de marbre parmi des feuilles de papier éparpillées et des peintures colorées. Elle avait cru Aster totalement absorbé par la création d'une prairie, mais son esprit curieux s'était manifestement aventuré ailleurs.
-
-« Pourquoi me demandes-tu ça, mon trésor ? »
-
-« Parce que j'ai joué avec les fées hier et qu'elles m'ont dit qu'elles naissaient dans les boutons de fleurs. Elles m'ont même montré un arbre où ça arrive ! »
-
-« Vraiment ? »
-
-« Oui ! Les fées mentent pas ! »
-
-Arlette lui adressa un sourire chaleureux. « En effet. Les créatures féeriques ne peuvent pas mentir. »
-
-« Alors... tu m'as trouvé dans une fleur ou pas ? »
-
-« Et toi, qu'en penses-tu, mon trésor ? »
-
-« Je sais pas. Les fleurs de l'arbre étaient toutes petites. Je crois pas que j'aurais tenu dedans. »
-
-Arlette pencha pensivement la tête, laissant ses boucles dorées cascader sur sa robe de lierre qui s'enroulait étroitement autour de son corps. Si l'on prêtait attention à la façon dont le temps s'écoulait sur le Plan Matériel, Aster avait déjà six ans. Rien d'étonnant à ce qu'il commence à poser des questions. Le moment était peut-être venu d'y répondre.
-
-« Non, mon trésor. Je ne t'ai pas trouvé dans une fleur. Je t'ai trouvé dans un berceau. »
-
-Le garçon fronça les sourcils. Il n'avait jamais entendu ce mot et n'arrivait pas à imaginer ce qu'il signifiait. « C'est quoi, un berceau ? »
-
-« Un lit pour les tout petits enfants. La femme qui t'a mis au monde t'y avait couché pour dormir. »
-
-« Une femme ? » Aster fronça les sourcils. « Qui ? Une autre maman ? »
-
-« Non ! Elle t'a donné naissance, mais tu es à moi ! » Les yeux violets d'Arlette étincelèrent, mais la tempête de colère passa vite et ne laissa derrière elle que la douceur d'un matin ensoleillé. « Cette femme est venue dans la forêt et a prié l'arbre sacré de l'aider. Je l'ai entendue à travers les Plans et j'ai conclu un pacte avec elle. Elle a accepté de rembourser mon aide avec son plus grand trésor. J'ai tenu ma part du marché, mais pas elle. Elle a essayé de m'acheter avec de l'or et des babioles sans valeur, puis elle a tenté de fuir. Mais on ne peut pas échapper à une promesse. Je t'ai donné ton vrai nom. Tu es à moi. »
-
-Arlette se souvenait encore de l'odeur métallique et étouffante qui emplissait la pièce lorsqu'elle avait marché pieds nus dans les flaques de sang provenant des corps de cette femme obstinée et de son mari.
-
-Le garçon se gratta la tête, réfléchissant intensément. Arlette se demanda si elle ne lui en avait pas trop dit, voire s'il avait seulement compris ce qu'elle voulait dire, mais Aster la surprit agréablement. « Cette dame, c'était une fée ? »
-
-Ah, quel enfant intelligent. Elle n'aurait pu en souhaiter un meilleur. « Non, mon trésor. C'était une humaine. »
-
-« Alors moi aussi je suis humain, pas une fée. » Sa voix était si triste qu'Arlette s'agenouilla devant lui et posa une main sur sa joue.
-
-« Tu n'as pas à t'en inquiéter, mon trésor. Encore quelques années dans mon domaine et la magie du Royaume Féérique te changera irrévocablement. Tu deviendras l'un des nôtres. Tu seras mon courageux chevalier, fidèle à ta reine. C'est ce que tu veux, n'est-ce pas ? »
-
-Le garçon lui adressa un large sourire et acquiesça avec enthousiasme. « Oui, maman ! Je serai une fée ! »
-
-« Splendide. » Arlette embrassa le sommet de son crâne. « Oublie tous tes soucis. Joue et amuse-toi, mon trésor. »
-
-Il n'eut pas besoin qu'on le lui répète. Ravi, Aster retourna peindre sa prairie en fredonnant la même chanson que sa mère avait jouée quelques instants plus tôt.
+Le garçon se gratta la tête, réfléchissant intensément. Arlette se demanda si elle ne lui en avait pas trop dit, voire s'il avait seulement compris ce qu'elle voulait dire, mais Aster la surprit agréablement."Cette dame, c'était une fée ?"Ah, quel enfant intelligent. Elle n'aurait pu en souhaiter un meilleur."Non, mon trésor. C'était une humaine.""Alors moi aussi je suis humain, pas une fée."Sa voix était si triste qu'Arlette s'agenouilla devant lui et posa une main sur sa joue."Tu n'as pas à t'en inquiéter, mon trésor. Encore quelques années dans mon domaine et la magie du Royaume Féérique te changera irrévocablement. Tu deviendras l'un des nôtres. Tu seras mon courageux chevalier, fidèle à ta reine. C'est ce que tu veux, n'est-ce pas ?"Le garçon lui adressa un large sourire et acquiesça avec enthousiasme."Oui, maman ! Je serai une fée !""Splendide."Arlette embrassa le sommet de son crâne."Oublie tous tes soucis. Joue et amuse-toi, mon trésor."Il n'eut pas besoin qu'on le lui répète. Ravi, Aster retourna peindre sa prairie en fredonnant la même chanson que sa mère avait jouée quelques instants plus tôt.
 
 Arlette reprit sa harpe et laissa la musique couler en parfaite harmonie avec son fils.~
 @500102 = ~Note de Kabatum~
@@ -1264,13 +1139,9 @@ Un morceau de parchemin soigneusement découpé indiquant les notes de l'octave 
  Fa - fa
  Sol - sol
  La - la
- Si - si
-
-« Hymne d'Ascendance »
-
-« Solar au service de Corellon Larethian
+ Si - si"Hymne d'Ascendance""Solar au service de Corellon Larethian
 Lashrael est son nom
-Signe de sa sagesse, une aura grise »~
+Signe de sa sagesse, une aura grise"~
 @500104 = ~Flûte du marraénoloth~
 @500105 = ~FLÛTE DU MARRAÉNOLOTH
 Poids : 1
@@ -1278,9 +1149,8 @@ Poids : 1
 Une flûte trouvée près du cadavre gelé de Ratilda, la voleuse homme-rat. Elle appartenait à l'origine à Wotyrxil, un marraénoloth qui attend son retour à Sigil.
 
 L'instrument est simple et sans ornements, mais il dégage une impression de grande valeur. Il est certainement magique, mais vous ignorez comment activer ses pouvoirs. Peut-être seuls les marraénoloths peuvent-ils l'utiliser, car on raconte que l'existence de tels instruments leur est étroitement liée. Selon Wotyrxil, ils servent à communiquer sur de longues distances.~
-@500106 = ~« Le Dernier Mot »~
-@500107 = ~« LE DERNIER MOT »
-Dégâts : 3-18, contondants
+@500106 = ~"Le Dernier Mot"~
+@500107 = ~"LE DERNIER MOT"Dégâts : 3-18, contondants
 Enchantement : +3
 Spécial :
  +1 à la Classe d'Armure
@@ -1292,7 +1162,7 @@ Compétence : Marteaux
 Utilisable uniquement par les guerriers.
 Utilisable uniquement par les personnages bons.
 
-Les linguistes savent que le mot « discussion » vient d'expressions signifiant « je brise » ou « j'abats ». Il implique un affrontement entre différents points de vue sur une question. Parvenir à un compromis ou à un consensus exige souvent des arguments solides. Tous les arguments ne sont pas faciles à formuler. La logique suggère également de présenter les arguments du plus faible au plus fort. À la fin, celui qui a le dernier mot l'emporte. Le voici.
+Les linguistes savent que le mot"discussion"vient d'expressions signifiant"je brise"ou"j'abats". Il implique un affrontement entre différents points de vue sur une question. Parvenir à un compromis ou à un consensus exige souvent des arguments solides. Tous les arguments ne sont pas faciles à formuler. La logique suggère également de présenter les arguments du plus faible au plus fort. À la fin, celui qui a le dernier mot l'emporte. Le voici.
 
 Ce puissant marteau appartenait à l'archonte des mots du mont Céleste. Depuis que cette arme est en votre possession, vous disposez manifestement de davantage de poids dans la discussion. Cela seul devrait constituer un argument suffisamment convaincant lors de votre prochain combat.~
 @500108 = ~Gants effrayants~
@@ -1362,7 +1232,7 @@ TAC0 : +2
 Poids : 0
 Utilisable uniquement par les modrones
 
-Cette lentille perfectionnée combine les effets bénéfiques de plusieurs lentilles populaires, notamment « Optix », la Lentille de l'Horizon et la Lentille de Méchanceté Inhérente. Elle protège également son porteur contre les conditions extrêmes des Neuf Enfers. Un tel équipement augmente les chances de survie d'un modrone dans cet environnement mortel.~
+Cette lentille perfectionnée combine les effets bénéfiques de plusieurs lentilles populaires, notamment"Optix", la Lentille de l'Horizon et la Lentille de Méchanceté Inhérente. Elle protège également son porteur contre les conditions extrêmes des Neuf Enfers. Un tel équipement augmente les chances de survie d'un modrone dans cet environnement mortel.~
 @500118 = ~Parchemin mystérieux~
 @500119 = ~PARCHEMIN MYSTÉRIEUX
 Poids : 0
@@ -1425,11 +1295,8 @@ Vitesse : 3
 Poids : 5
 Compétence : Haches
 Utilisable uniquement par les guerriers
-Inutilisable par les personnages neutres (sur l'axe Bien-Mal)
-
-« Les Marqués comptent le jonc qu'ils amassent,
-Ne donne jamais si tu peux prendre. »
-Fragment d'une berceuse tieffeline
+Inutilisable par les personnages neutres (sur l'axe Bien-Mal)"Les Marqués comptent le jonc qu'ils amassent,
+Ne donne jamais si tu peux prendre."Fragment d'une berceuse tieffeline
 
 Cette hache à la forme inhabituelle et perforée représente le sommet de l'artisanat des Marqués. Elle permet à son porteur d'absorber une partie des dégâts infligés à sa cible et possède une puissance suffisante pour être utilisée contre des fiélons ou des célestes. Ce n'est toutefois pas une arme pour les hésitants. Libérer toute sa puissance exige une volonté forte et inébranlable, ainsi qu'une approche décisive et extrême des épreuves auxquelles sont confrontés les habitants des Plans.
 
@@ -1491,7 +1358,7 @@ Poids : 1
 Compétence : Poings
 Utilisable uniquement par Morte
 
-Voici une molaire provenant de la bouche répugnante du baernaloth Agraval. On raconte qu'elle peut rappeler son « chien » auprès de lui. Elle est écœurante, mais c'est une dent, donc Morte pourrait l'utiliser. Il devrait accepter de la placer dans sa bouche si cela peut améliorer ses capacités au combat.
+Voici une molaire provenant de la bouche répugnante du baernaloth Agraval. On raconte qu'elle peut rappeler son"chien"auprès de lui. Elle est écœurante, mais c'est une dent, donc Morte pourrait l'utiliser. Il devrait accepter de la placer dans sa bouche si cela peut améliorer ses capacités au combat.
 
 Supposer que la dent d'un mystérieux fiélon antique recèle une puissance magique n'est pas une erreur. Surtout, elle peut blesser d'autres fiélons et possède également une extraordinaire capacité à drainer la vie. Les blessures infligées par les baernaloths peuvent se rouvrir pendant jusqu'à 24 heures, rendant la douleur de la victime extrêmement intense.~
 @500143 = ~Épée brûlante~
@@ -1519,7 +1386,7 @@ Compétence : Armes tranchantes
 Inutilisable par les prêtres
 Inutilisable par les personnages mauvais et chaotiques
 
-Cette arme sacrée fut forgée dans le fer pur du mont Céleste par Girru, dieu du feu des Anunnaki, dans la Forge de la Flamme Immortelle, son royaume divin en Mercurie. Les domaines de Girru comprennent également la justice et la loi, ce qui fait de lui le créateur tout indiqué pour cet outil rituel destiné à purifier le monde du mal. Une magie antique et des incantations appelées nam-búr-bi sont gravées sur l'épée. Elles ne servent pas seulement à éloigner le mal, mais aussi, selon leur formulation littérale, à « renforcer l'assurance du roi, affermir sa résolution et tremper sa volonté de combattre ». En pratique, cela se traduit par une augmentation du Charisme, de la Sagesse et de la Classe d'Armure, ainsi qu'une immunité à la peur.~
+Cette arme sacrée fut forgée dans le fer pur du mont Céleste par Girru, dieu du feu des Anunnaki, dans la Forge de la Flamme Immortelle, son royaume divin en Mercurie. Les domaines de Girru comprennent également la justice et la loi, ce qui fait de lui le créateur tout indiqué pour cet outil rituel destiné à purifier le monde du mal. Une magie antique et des incantations appelées nam-búr-bi sont gravées sur l'épée. Elles ne servent pas seulement à éloigner le mal, mais aussi, selon leur formulation littérale, à"renforcer l'assurance du roi, affermir sa résolution et tremper sa volonté de combattre". En pratique, cela se traduit par une augmentation du Charisme, de la Sagesse et de la Classe d'Armure, ainsi qu'une immunité à la peur.~
 @500147 = ~Étincelle d'Iadmon~
 @500148 = ~Anneau d'obsidienne~
 @500149 = ~ÉTINCELLE D'IADMON
@@ -1531,7 +1398,7 @@ Spécial :
 Poids : 0
 Inutilisable par les personnages mauvais
 
-Il y a très longtemps, elle fut portée par Innaya, reine des devas qui régnait depuis la cité d'Iadmon en Amoria, en Élysées. Un jour toutefois, la cité fut arrachée à ses fondations par le dieu-dragon Task, qui la transporta dans les Plans Inférieurs et la posa sur la surface de la Géhenne, recouvrant ainsi l'entrée d'un antre draconique, son royaume divin. Innaya périt avec la plupart des habitants d'Iadmon, et Task pilla presque tous ses trésors, n'en laissant qu'une poignée, dont cette boucle d'oreille. Celle-ci conserva une parcelle de l'aura merveilleuse d'Innaya, même lorsqu'elle fut perdue entre les Plans après être tombée de son oreille.~
+Il y a très longtemps, elle fut portée par Innaya, reine des dévas qui régnait depuis la cité d'Iadmon en Amoria, en Élysées. Un jour toutefois, la cité fut arrachée à ses fondations par le dieu-dragon Task, qui la transporta dans les Plans Inférieurs et la posa sur la surface de la Géhenne, recouvrant ainsi l'entrée d'un antre draconique, son royaume divin. Innaya périt avec la plupart des habitants d'Iadmon, et Task pilla presque tous ses trésors, n'en laissant qu'une poignée, dont cette boucle d'oreille. Celle-ci conserva une parcelle de l'aura merveilleuse d'Innaya, même lorsqu'elle fut perdue entre les Plans après être tombée de son oreille.~
 @500150 = ~~
 @500151 = ~Fiendango~
 @500152 = ~FIENDANGO
@@ -1562,12 +1429,8 @@ Ce masque, autrefois porté par Sonne, lui permettait de paraître parfaitement 
 @500160 = ~AVIS DE RECHERCHE
 Poids : 0
 
-Ce tract montre le portrait de ce qui semble être un jeune homme, même si son âge est masqué par une multitude de rides et de cicatrices. Un rapide coup d'œil révèle l'essentiel, écrit en lettres grasses en haut et en bas du parchemin :
-
-« ADAIRE, ALIAS KESTER, ALIAS SIGIMUNDIS STIG, ALIAS LEONTES, ALIAS CHANCELLEN LE VRAI.
-RECHERCHÉ POUR FRAUDE, VOL ET MEURTRE, SUR ORDRE DE L'HARMONIUM. »
-
-En dessous, de petits caractères détaillent le fondement juridique de l'avis. Ce qui vous trouble, c'est à quel point le portrait du recherché vous ressemble, peut-être avec quelques années de moins. Et tous ces noms, alors qu'aucun ne paraît véritable. Il vaudrait mieux ne pas rester près de l'affiche, au cas où, et surtout pas en présence de l'Harmonium.~
+Ce tract montre le portrait de ce qui semble être un jeune homme, même si son âge est masqué par une multitude de rides et de cicatrices. Un rapide coup d'œil révèle l'essentiel, écrit en lettres grasses en haut et en bas du parchemin :"ADAIRE, ALIAS KESTER, ALIAS SIGIMUNDIS STIG, ALIAS LEONTES, ALIAS CHANCELLEN LE VRAI.
+RECHERCHÉ POUR FRAUDE, VOL ET MEURTRE, SUR ORDRE DE L'HARMONIUM."En dessous, de petits caractères détaillent le fondement juridique de l'avis. Ce qui vous trouble, c'est à quel point le portrait du recherché vous ressemble, peut-être avec quelques années de moins. Et tous ces noms, alors qu'aucun ne paraît véritable. Il vaudrait mieux ne pas rester près de l'affiche, au cas où, et surtout pas en présence de l'Harmonium.~
 @500161 = ~Garrot de ronce-rasoir~
 @500162 = ~GARROT DE RONCE-RASOIR
 Poids : 0
@@ -1593,70 +1456,20 @@ Il entra, retira sa capuche et déboutonna son manteau. Il paraissait plutôt je
 
 À mesure qu'il approchait, je remarquai ses yeux inhabituels. Des pupilles si grises qu'elles semblaient presque transparentes. Un homme du Nord, aucun doute. Cheveux blond sale coupés court, barbe de quelques jours. Il était bien aussi jeune que je l'avais cru.
 
-La routine, me voilà.
+La routine, me voilà."Qu'est-ce que je vous sers ?"demandai-je en m'attendant à la réponse habituelle. Ce type ne pouvait certainement pas se payer les meilleures boissons. À voir ses vêtements, je pariai sur une bière."De l'eau. La plus pure possible."Voilà qui était nouveau. N'avait-il pas déjà assez bu d'eau de pluie ?"Quelque chose à manger ?""Pas besoin.""Bien sûr."Dommage. Manifestement, ce bige ne me rapporterait pas grand-chose."Sale temps, hein ? Ça fait environ trois heures que ça tombe comme ça.""Ouais.""Vous allez où, si je peux demander ?"repris-je en lui tendant l'eau."Loin... plus loin que je ne le pensais.""C'est secret, alors ?"souris-je intérieurement."Enfin, ça ne me regarde pas.""Je ne resterai pas longtemps. J'attends quelqu'un, puis je repartirai.""Je vois."Ce matois semblait savoir ce qu'il voulait.
 
-« Qu'est-ce que je vous sers ? » demandai-je en m'attendant à la réponse habituelle. Ce type ne pouvait certainement pas se payer les meilleures boissons. À voir ses vêtements, je pariai sur une bière.
+Il s'assit à une table au fond, posa sa tasse d'eau et réfléchit pendant quinze minutes sans en boire une goutte. Étrange. Celui qu'il attendait finit par arriver. Un homme âgé, mince, légèrement vêtu et tout aussi trempé par la pluie. Dès qu'il aperçut l'homme du Nord, il se dirigea droit vers lui. Ah non, mon cher, on ne s'assoit pas ici sans commander. Lorsqu'il prit place, je vins prendre sa commande."Monsieur, vous désirez quelque chose ?""Quoi ?"Le nouveau venu se racla la gorge."Ah oui. Une bière. C'est tout.""Tout de suite."Il paraissait plus riche que je ne l'avais cru. Enfin, une bière, c'était toujours ça.
 
-« De l'eau. La plus pure possible. »
-
-Voilà qui était nouveau. N'avait-il pas déjà assez bu d'eau de pluie ?
-
-« Quelque chose à manger ? »
-« Pas besoin. »
-« Bien sûr. »
-
-Dommage. Manifestement, ce bige ne me rapporterait pas grand-chose.
-
-« Sale temps, hein ? Ça fait environ trois heures que ça tombe comme ça. »
-« Ouais. »
-« Vous allez où, si je peux demander ? » repris-je en lui tendant l'eau.
-« Loin... plus loin que je ne le pensais. »
-« C'est secret, alors ? » souris-je intérieurement. « Enfin, ça ne me regarde pas. »
-« Je ne resterai pas longtemps. J'attends quelqu'un, puis je repartirai. »
-« Je vois. »
-
-Ce matois semblait savoir ce qu'il voulait.
-
-Il s'assit à une table au fond, posa sa tasse d'eau et réfléchit pendant quinze minutes sans en boire une goutte. Étrange. Celui qu'il attendait finit par arriver. Un homme âgé, mince, légèrement vêtu et tout aussi trempé par la pluie. Dès qu'il aperçut l'homme du Nord, il se dirigea droit vers lui. Ah non, mon cher, on ne s'assoit pas ici sans commander. Lorsqu'il prit place, je vins prendre sa commande.
-
-« Monsieur, vous désirez quelque chose ? »
-« Quoi ? » Le nouveau venu se racla la gorge. « Ah oui. Une bière. C'est tout. »
-« Tout de suite. »
-
-Il paraissait plus riche que je ne l'avais cru. Enfin, une bière, c'était toujours ça.
-
-Il n'y avait rien à faire, alors je les observai. À un moment, le vieil homme donna quelque chose au plus jeune, un petit sachet. L'homme du Nord en versa le contenu dans l'eau et remua vigoureusement. Ça ne me plaisait pas. Je décidai d'écouter.
-
-« Vous avez copié l'inscription ? » demanda l'homme du Nord.
-« Et tu me prends pour qui ? Je te l'avais promis, alors je l'ai fait. C'était pas très difficile. Crois-le ou non, j'ai eu plus de mal à trouver cette herbe. »
-« Vraiment ? »
-« Oh oui. Le “Crachat des vagabonds”... plus difficile à trouver que des écailles de dragon de nos jours. Mais tu comptes pas boire ça, quand même ? »
-« Pourquoi ? »
-« J'ai entendu toutes sortes de légendes là-dessus. »
-« Quelles légendes ? Par exemple ? »
-« La folie. Disons simplement des absurdités jamais vues. Et même quelque chose sur une mort imminente. »
-« Hmm. Voilà l'or et les pierres, comme convenu. » Le plus jeune sortit une grosse bourse de sa veste et la lança sur la table.
-« Oh, mon garçon. J'espère que tu sais ce que tu fais. Et voilà l'inscription, copiée dans le Livre de la Fermeture de la Cité. Étrange nom, mais qu'est-ce que j'en sais ? »
-« Étrange seulement si vous ignorez le reste. »
-« Comment ça ? »
-« Cet ancien volume est incomplet, tout comme son titre. »
-« Je sais ça. Mon garçon, je suis scribe depuis trente ans. Le titre est incomplet parce que, dans la nuit des temps, quelqu'un l'a arraché sans vergogne, détruit ou je ne sais quoi, et qu'il n'en est question nulle part. »
-« Alors, scribe, vous savez ce qu'il en est du mot “nulle part”. Quoi qu'il en soit, ça ne vous concerne plus. L'inscription est authentique. Il me manquait les deux dernières lignes. Vous avez fait ce qu'il fallait. Adieu. »
-
-Le vieil homme jeta un œil dans la bourse, fouilla à l'intérieur, puis se leva et partit sans boire une gorgée de sa bière.
+Il n'y avait rien à faire, alors je les observai. À un moment, le vieil homme donna quelque chose au plus jeune, un petit sachet. L'homme du Nord en versa le contenu dans l'eau et remua vigoureusement. Ça ne me plaisait pas. Je décidai d'écouter."Vous avez copié l'inscription ?"demanda l'homme du Nord."Et tu me prends pour qui ? Je te l'avais promis, alors je l'ai fait. C'était pas très difficile. Crois-le ou non, j'ai eu plus de mal à trouver cette herbe.""Vraiment ?""Oh oui. Le"Crachat des vagabonds"... plus difficile à trouver que des écailles de dragon de nos jours. Mais tu comptes pas boire ça, quand même ?""Pourquoi ?""J'ai entendu toutes sortes de légendes là-dessus.""Quelles légendes ? Par exemple ?""La folie. Disons simplement des absurdités jamais vues. Et même quelque chose sur une mort imminente.""Hmm. Voilà l'or et les pierres, comme convenu."Le plus jeune sortit une grosse bourse de sa veste et la lança sur la table."Oh, mon garçon. J'espère que tu sais ce que tu fais. Et voilà l'inscription, copiée dans le Livre de la Fermeture de la Cité. Étrange nom, mais qu'est-ce que j'en sais ?""Étrange seulement si vous ignorez le reste.""Comment ça ?""Cet ancien volume est incomplet, tout comme son titre.""Je sais ça. Mon garçon, je suis scribe depuis trente ans. Le titre est incomplet parce que, dans la nuit des temps, quelqu'un l'a arraché sans vergogne, détruit ou je ne sais quoi, et qu'il n'en est question nulle part.""Alors, scribe, vous savez ce qu'il en est du mot"nulle part". Quoi qu'il en soit, ça ne vous concerne plus. L'inscription est authentique. Il me manquait les deux dernières lignes. Vous avez fait ce qu'il fallait. Adieu."Le vieil homme jeta un œil dans la bourse, fouilla à l'intérieur, puis se leva et partit sans boire une gorgée de sa bière.
 
 De drôles de bougres, pensai-je. De vieux volumes, une herbe au nom ridicule. Ô temps, ô mœurs. Je me demandai ce qu'il comptait faire maintenant de toute cette eau et de ces herbes. Je n'avais pas besoin d'un cadavre ici. Je décidai de le mettre dehors.
 
-Soudain, le voyageur se leva, une tasse dans une main et un parchemin dans l'autre, puis se dirigea vers la sortie. Arrivé sur le seuil, il s'immobilisa et se mit à lire à voix haute ce qui était écrit sur la carte :
-
-« Les morts ont soif de l'eau de la vie.
+Soudain, le voyageur se leva, une tasse dans une main et un parchemin dans l'autre, puis se dirigea vers la sortie. Arrivé sur le seuil, il s'immobilisa et se mit à lire à voix haute ce qui était écrit sur la carte :"Les morts ont soif de l'eau de la vie.
 Comme j'ai soif d'une voie.
 Vous seule, ô Dame, comprenez cette douleur.
 J'en appelle aux Puissances qui voient tout.
 Cette œuvre de mains puissantes.
-Pour voir Sigil qui brille au loin. »
-
-« Quelle plaisanterie de dément ! » criai-je.
+Pour voir Sigil qui brille au loin.""Quelle plaisanterie de dément !"criai-je.
 
 Alors le visiteur venu du Nord renversa sa tasse et en avala tout le contenu d'un trait.
 
@@ -1751,7 +1564,7 @@ Tous les prétendus faits entourant le trophée de Kabatum ne paraissent pas cr�
 Les justes auront du mal à manier cette hache. Elle est destinée aux pécheurs irrécupérables qui font preuve d'amoralisme et d'hypocrisie, traits étrangers aux paisibles Plans Supérieurs. Du moins, c'est ce qu'il semble.~
 @500179 = ~Peau de la Terreur des diables~
 @500180 = ~PEAU DE LA TERREUR DES DIABLES
-Lance : « Horreur » une fois par jour
+Lance :"Horreur"une fois par jour
 Poids : 10
 
 Voici un morceau de peau de tisseur de chaînes infernales, une bête-araignée venue des recoins les plus obscurs des Neuf Enfers, redoutée même des diables. Toutes les créatures des Neuf Enfers reconnaissent le bruit de ces chaînes et savent le distinguer de celui de n'importe quel tortionnaire ou pénitent. Voilà de quoi est faite la peau d'un tisseur de chaînes infernales : crochets cruels, chaînes barbelées et fer dentelé. Secouez-la vigoureusement et son cliquetis fera frissonner même un baatezu.
@@ -1806,7 +1619,7 @@ Poids : 0
 Compétence : Projectiles
 Utilisables uniquement par les modrones
 
-D'une manière ou d'une autre, ces carreaux renferment la puissance du quasi-Plan Élémentaire de la Foudre, également appelé Plan des Tempêtes ou, plus poétiquement, Terre Vengeresse. Les seuls êtres susceptibles de pouvoir fabriquer de tels carreaux et d'y survivre sont les vrrxlzk, plus couramment appelés « choqueurs » par les arpenteurs.
+D'une manière ou d'une autre, ces carreaux renferment la puissance du quasi-Plan Élémentaire de la Foudre, également appelé Plan des Tempêtes ou, plus poétiquement, Terre Vengeresse. Les seuls êtres susceptibles de pouvoir fabriquer de tels carreaux et d'y survivre sont les vrrxlzk, plus couramment appelés"choqueurs"par les arpenteurs.
 
 Ils se divisent en deux groupes : les Contestés, pacifiques, et les Séjournants, explorateurs qui cherchent à quitter leur Plan. De tels carreaux servent leur dessein en envoyant la foudre vers des endroits qu'ils ne pourraient jamais atteindre sans aide extérieure.~
 @500193 = ~Carreaux de Pourriture Primordiale~
@@ -1850,19 +1663,13 @@ Un crâne miniature sculpté dans une pierre précieuse. Il ne semble servir à 
 @500200 = ~LES FANTÔMES PEUVENT-ILS SAIGNER ?
 Poids : 1
 
-Cet ouvrage, écrit par un membre anonyme ou un groupe de membres de l'Athar, étudie la question de savoir si les êtres vivants possèdent réellement une âme et ce que cela impliquerait. Un paragraphe souligné au charbon par un précédent lecteur attire votre regard :
-
-« On dit que dans les paradis des Plans Supérieurs nous trouvons l'accomplissement. Mais qu'en est-il des souvenirs ? Comment une personne accablée de traumatismes et d'expériences cauchemardesques peut-elle connaître une joie éternelle au paradis ? L'esprit s'en débarrasse-t-il dans une sorte de purgatoire, ou au paradis lui-même ? Et dans ce cas, trouve-t-il encore l'accomplissement après avoir perdu ses souvenirs ? Est-il encore vraiment lui-même sans les expériences de la vie ? Après tout, les traumatismes et les regrets sont des composantes inévitables de l'expérience et, sans eux, l'esprit n'est plus la même personne qu'il était de son vivant. La vie éternelle, censée être un paradis, peut-elle alors devenir un piège sans issue pour ceux dont la vie mortelle fut remplie de souffrance et de folie ? Pour de telles personnes, ne vaudrait-il pas mieux mourir pour toujours, au sens plein du terme, plutôt que se perdre elles-mêmes ou rester prisonnières d'un paradis transformé en enfer personnel ? »
-
-Des arguments et contre-arguments similaires aux croyances religieuses communes parsèment l'ouvrage, exprimant clairement l'opposition de l'auteur à une vie après la mort imposée par les dieux.
+Cet ouvrage, écrit par un membre anonyme ou un groupe de membres des Athars, étudie la question de savoir si les êtres vivants possèdent réellement une âme et ce que cela impliquerait. Un paragraphe souligné au charbon par un précédent lecteur attire votre regard :"On dit que dans les paradis des Plans Supérieurs nous trouvons l'accomplissement. Mais qu'en est-il des souvenirs ? Comment une personne accablée de traumatismes et d'expériences cauchemardesques peut-elle connaître une joie éternelle au paradis ? L'esprit s'en débarrasse-t-il dans une sorte de purgatoire, ou au paradis lui-même ? Et dans ce cas, trouve-t-il encore l'accomplissement après avoir perdu ses souvenirs ? Est-il encore vraiment lui-même sans les expériences de la vie ? Après tout, les traumatismes et les regrets sont des composantes inévitables de l'expérience et, sans eux, l'esprit n'est plus la même personne qu'il était de son vivant. La vie éternelle, censée être un paradis, peut-elle alors devenir un piège sans issue pour ceux dont la vie mortelle fut remplie de souffrance et de folie ? Pour de telles personnes, ne vaudrait-il pas mieux mourir pour toujours, au sens plein du terme, plutôt que se perdre elles-mêmes ou rester prisonnières d'un paradis transformé en enfer personnel ?"Des arguments et contre-arguments similaires aux croyances religieuses communes parsèment l'ouvrage, exprimant clairement l'opposition de l'auteur à une vie après la mort imposée par les dieux.
 ~
 @500201 = ~Les Voies du Destin~
 @500202 = ~LES VOIES DU DESTIN
 Poids : 1
 
-Ce livre rassemble de courtes histoires explorant l'inéluctabilité du destin. Certaines sont heureuses, d'autres accablantes. Dès qu'il arrive entre vos mains, le marque-page indique le début du récit sans titre suivant :
-
-« Il était une fois, dans un royaume inaccessible, un peuple pacifique et doux qui ne se souciait nullement de l'ombre de la guerre suspendue au-dessus de lui. Ce n'était pas leur guerre, disaient-ils. Lorsque le conflit finit par s'abattre sur eux comme un cataclysme, pleurs et grincements de dents ne tardèrent pas à suivre.
+Ce livre rassemble de courtes histoires explorant l'inéluctabilité du destin. Certaines sont heureuses, d'autres accablantes. Dès qu'il arrive entre vos mains, le marque-page indique le début du récit sans titre suivant :"Il était une fois, dans un royaume inaccessible, un peuple pacifique et doux qui ne se souciait nullement de l'ombre de la guerre suspendue au-dessus de lui. Ce n'était pas leur guerre, disaient-ils. Lorsque le conflit finit par s'abattre sur eux comme un cataclysme, pleurs et grincements de dents ne tardèrent pas à suivre.
 
 Parmi eux se tenait un étrange guerrier qu'ils avaient accueilli lorsque le malheur les avait frappés pour la première fois. Il les arracha à leur passivité. Son zèle et sa foi éveillèrent leur colère et leur courage, leur montrant combien ils pouvaient être forts. Inspirés par son exemple, ils partirent en guerre pour défendre leurs foyers et leurs familles. La bénédiction accordée au guerrier par sa bien-aimée embrasa leurs cœurs, et un ange proclama leur victoire. Alors qu'ils marchaient vers la gloire, aucun d'eux ne comprit que le guerrier qui les menait n'était poussé ni par l'attention ni par l'amour, mais par une maladie que son environnement avait longtemps contenue, jusqu'à ce qu'il finisse par la transmettre à tous.
 
@@ -1870,14 +1677,12 @@ La foi et le courage leur apportèrent le succès. Ils triomphèrent et prouvèr
 
 Dévoré par le chagrin et la culpabilité, le grand guerrier mit fin à ses jours. Il repartit en guerre une dernière fois, seul cette fois, sans rien laisser derrière lui. Il déclara la guerre à une force écrasante et tomba sous les assauts de ses ennemis, espérant que sa mort mettrait enfin un terme à sa misère.
 
-Il chercha le repos dans la mort, mais celui-ci lui fut refusé. Il n'avait jamais compris que sa maladie n'appartenait pas à sa vie, mais à son âme même. Dans le monde des morts, nul ne peut s'échapper de soi-même. »~
+Il chercha le repos dans la mort, mais celui-ci lui fut refusé. Il n'avait jamais compris que sa maladie n'appartenait pas à sa vie, mais à son âme même. Dans le monde des morts, nul ne peut s'échapper de soi-même."~
 @500203 = ~Note de la prêtresse~
 @500204 = ~NOTE DE LA PRÊTRESSE
 Poids : 0
 
-Cette courte note a été écrite par une prêtresse qui a laissé le paquet dans l'entrepôt du port. Elle est rédigée dans une langue que vous ne reconnaissez pas, mais trois mots ressemblent au Commun :
-
-« eau », « croyance », « chance »~
+Cette courte note a été écrite par une prêtresse qui a laissé le paquet dans l'entrepôt du port. Elle est rédigée dans une langue que vous ne reconnaissez pas, mais trois mots ressemblent au Commun :"eau","croyance","chance"~
 @500205 = ~Pièce à l'effigie bicéphale~
 @500206 = ~Grande Pièce du Destin~
 @500207 = ~PIÈCE À L'EFFIGIE BICÉPHALE
@@ -2134,15 +1939,11 @@ Poids : 1
 
 Cette œuvre légendaire, rédigée en prose, ressemble par sa forme à une épopée chevaleresque, mais son contenu tourne davantage en dérision les idéaux du genre qu'il ne les illustre. Son auteur était Qafzech de Vermilion, prêtre spellscale au tempérament fougueux. Le livre est consacré à la vie et à l'œuvre de Celosia, prophétesse et sainte du culte de Garyx, dieu-dragon du feu et de la destruction. Contrairement à la plupart des membres du clergé, Celosia, douée pour la magie, préférait manifester sa foi par les actes plutôt que par les mots. Elle devint ainsi connue sous le nom de Prophétesse de l'Action. Décrite comme une femme mi-nymphe, mi-lézard de feu infernal, elle aurait possédé une beauté si austère que son propre dieu lui-même en fut fasciné. L'ouvrage insiste sur la solennité des scènes de ruine et de désolation provoquées par la protagoniste au cours de son pèlerinage. Il glorifie les actes de destruction massive et leur confère une signification pervertie.
 
-Cette réédition fut publiée par la Garde Fatale comme lecture recommandée aux Gardeurs, afin de fournir une introduction littéraire à leur philosophie de la destruction. Pour en faciliter la compréhension, cette édition comprend une longue préface de Taranis le Demi-Dragon, qui explique les parallèles entre la religion de Garyx et la vision du monde de la Garde Fatale.
-
-« (...) Garyx est appelé le Destructeur Universel, car sa volonté peut véritablement affecter n'importe quel objet de la Grande Roue. La vie d'un mortel, un artefact magique, une cité, une divinité ou même un Plan entier peuvent tomber sous son influence. Pourtant, ce ne sont pas Garyx mais Faluzure et Chronepsis qui sont les dieux draconiques de la mort. Garyx, vénéré par la Garde Fatale, représente la destruction porteuse de sens. Quel est le sens de la destruction ? C'est à cette question que ce livre cherche à répondre.
+Cette réédition fut publiée par la Garde Fatale comme lecture recommandée aux Gardeurs, afin de fournir une introduction littéraire à leur philosophie de la destruction. Pour en faciliter la compréhension, cette édition comprend une longue préface de Taranis le Demi-Dragon, qui explique les parallèles entre la religion de Garyx et la vision du monde de la Garde Fatale."(...) Garyx est appelé le Destructeur Universel, car sa volonté peut véritablement affecter n'importe quel objet de la Grande Roue. La vie d'un mortel, un artefact magique, une cité, une divinité ou même un Plan entier peuvent tomber sous son influence. Pourtant, ce ne sont pas Garyx mais Faluzure et Chronepsis qui sont les dieux draconiques de la mort. Garyx, vénéré par la Garde Fatale, représente la destruction porteuse de sens. Quel est le sens de la destruction ? C'est à cette question que ce livre cherche à répondre.
 
 Tout dans l'univers vieillit. Tout finira un jour par disparaître. Bien que Garyx et cet ouvrage affirment que l'espèce draconique est éternelle, il faut accepter la vérité : les dragons eux aussi finiront par s'éteindre. Celosia explique le sens de cette réalité, la beauté de la ruine. Après la destruction vient le renouveau, comme une forêt brûlée qui repousse. L'extinction couronne la décrépitude et la décadence, comme la mort met fin à la vieillesse et à la maladie. Les lecteurs pourront trouver de nombreuses interprétations dans cette œuvre, mais toutes conduisent vers l'objectif commun de la Garde Fatale et du culte du Destructeur Universel : l'accomplissement.
 
-Certains retirent la pourriture du monde et la remplacent par une vie nouvelle et plus belle. D'autres se délectent de la destruction et abandonnent au destin le vide qui en résulte. La destruction peut avoir d'innombrables motivations, tout comme les actes de sainte Celosia peuvent être interprétés de différentes façons : vengeance, colère ou miséricorde. Tout acte de destruction possède un sens. C'est dans ce but que la Garde Fatale réédite cet ouvrage, non pas nécessairement pour célébrer Garyx personnellement ou favoriser son culte, comme le souhaitait son auteur original, mais avant tout pour démontrer la beauté et l'extase de la destruction. La foi dans le Purificateur des Mondes, personnellement professée et recommandée par l'initiateur de cette édition et auteur de sa préface, constitue un complément bienvenu mais n'est pas indispensable pour apprécier cette prose ou suivre ses enseignements. Lecteur, lis avec le visage en feu et laisse-toi emporter par l'embrasement qui dévore la Grande Roue. Puisse la Prophétesse de l'Action attiser ta passion et guider ton dessein à travers la destruction. Qu'elle te mène dans la danse de la fin du monde. (...) »
-
-Dans cet exemplaire, le passage le plus saisissant est le baptême de feu au cours duquel la protagoniste devient l'avatar de son dieu et déchaîne une tempête ardente sur le bosquet familial. Les descriptions des retrouvailles de Garyx et Celosia au cœur de l'incendie, combinées à celle de la présence du dieu du feu dans les flammes qui dévorent le corps nu de l'héroïne, sont suggestives. Elles donnent l'impression qu'à cet instant, leur union était animée par quelque chose de plus profane qu'une incarnation divine, mais non moins intense que l'extase de la pyromanie.~
+Certains retirent la pourriture du monde et la remplacent par une vie nouvelle et plus belle. D'autres se délectent de la destruction et abandonnent au destin le vide qui en résulte. La destruction peut avoir d'innombrables motivations, tout comme les actes de sainte Celosia peuvent être interprétés de différentes façons : vengeance, colère ou miséricorde. Tout acte de destruction possède un sens. C'est dans ce but que la Garde Fatale réédite cet ouvrage, non pas nécessairement pour célébrer Garyx personnellement ou favoriser son culte, comme le souhaitait son auteur original, mais avant tout pour démontrer la beauté et l'extase de la destruction. La foi dans le Purificateur des Mondes, personnellement professée et recommandée par l'initiateur de cette édition et auteur de sa préface, constitue un complément bienvenu mais n'est pas indispensable pour apprécier cette prose ou suivre ses enseignements. Lecteur, lis avec le visage en feu et laisse-toi emporter par l'embrasement qui dévore la Grande Roue. Puisse la Prophétesse de l'Action attiser ta passion et guider ton dessein à travers la destruction. Qu'elle te mène dans la danse de la fin du monde. (...)"Dans cet exemplaire, le passage le plus saisissant est le baptême de feu au cours duquel la protagoniste devient l'avatar de son dieu et déchaîne une tempête ardente sur le bosquet familial. Les descriptions des retrouvailles de Garyx et Celosia au cœur de l'incendie, combinées à celle de la présence du dieu du feu dans les flammes qui dévorent le corps nu de l'héroïne, sont suggestives. Elles donnent l'impression qu'à cet instant, leur union était animée par quelque chose de plus profane qu'une incarnation divine, mais non moins intense que l'extase de la pyromanie.~
 @500254 = ~Manifeste d'un Morné~
 @500255 = ~MANIFESTE D'UN MORNÉ
 Poids : 1
@@ -2173,15 +1974,13 @@ Voici un ensemble officieux de règles rédigé par Ími de la Morne Cabale afin
 Poids : 1
 Utilisable uniquement par le Sans-Nom
 
-Un cadeau destiné à un nouvel acolyte de Kiaransalee.
-
-« ...et tandis que la Banshee Blanche se délectait des fruits de son œuvre, son consort prodigue, dominé par les illusions de la vanité, éprouvait un ressentiment toujours plus profond envers celle qu'il avait autrefois aimée. Et tandis que la Banshee Blanche s'efforçait de vaincre la mort elle-même et d'inverser l'ordre naturel des choses, le consort prodigue s'acharnait à déplacer de minuscules pions insignifiants sur son petit échiquier pitoyable.
+Un cadeau destiné à un nouvel acolyte de Kiaransalee."...et tandis que la Banshee Blanche se délectait des fruits de son œuvre, son consort prodigue, dominé par les illusions de la vanité, éprouvait un ressentiment toujours plus profond envers celle qu'il avait autrefois aimée. Et tandis que la Banshee Blanche s'efforçait de vaincre la mort elle-même et d'inverser l'ordre naturel des choses, le consort prodigue s'acharnait à déplacer de minuscules pions insignifiants sur son petit échiquier pitoyable.
 
 Hélas, les voix innombrables des petits finirent par étouffer celle de la plus grande, et la Banshee Blanche fut renversée, reniée, privée de son royaume alors même qu'elle s'était entièrement consacrée au bien de son peuple.
 
 Depuis les profondeurs de sa prison, la Banshee Blanche leva les yeux et vit que le royaume se réjouissait des trivialités de son consort. Leurs esprits et leurs âmes s'affaiblissaient, devenaient insignifiants, indignes de l'amour de leur ancienne reine.
 
-Alors la Banshee Blanche comprit qu'elle s'était trompée et décida de réparer cette erreur. Elle apporterait une mort porteuse de sens à ce monde de vie dépourvue de sens... »~
+Alors la Banshee Blanche comprit qu'elle s'était trompée et décida de réparer cette erreur. Elle apporterait une mort porteuse de sens à ce monde de vie dépourvue de sens..."~
 @500258 = ~Histoire de la diplomatie interfactionnelle~
 @500259 = ~HISTOIRE DE LA DIPLOMATIE INTERFACTIONNELLE
 Poids : 1
@@ -2199,7 +1998,7 @@ Ennemis : Garde Fatale (critique des méthodes extrêmes de leur factol, Pentar)
 
 Croyants de la Source
 Factol : Ambar Vergrove
-Alliés : Athar (bonnes relations), Garde Fatale (croyance commune en la fin ultime du Multivers)
+Alliés : Athars (bonnes relations), Garde Fatale (croyance commune en la fin ultime du Multivers)
 Ennemis : Hommes-Poussière, Morne Cabale (désaccords idéologiques)
 
 Morne Cabale
@@ -2273,9 +2072,7 @@ Le livre se termine par un ensemble très complet de notes et de références à
 Poids : 1
 
 AVANT-PROPOS
-par Kieran le arpenteur
-
-« Bonjour, mon ami ! Si vous lisez ces lignes, c'est que le Multivers et ses Plans éveillent votre curiosité, ce qui fait de vous un esprit frère. Je peux donc, en toute bonne conscience, vous appeler mon ami.
+par Kieran le arpenteur"Bonjour, mon ami ! Si vous lisez ces lignes, c'est que le Multivers et ses Plans éveillent votre curiosité, ce qui fait de vous un esprit frère. Je peux donc, en toute bonne conscience, vous appeler mon ami.
 
 Alors, mon ami, je vous invite à m'accompagner dans un nouveau voyage autour de la Grande Roue. Cette fois, je me suis aventuré dans un lieu à la réputation plutôt mauvaise. À tort ! J'ai tant entendu dire que les Limbes étaient terribles et inhospitalières, mais ce n'est tout simplement pas vrai. Dans les pages de ce livre, je vais vous montrer qu'une attitude positive ouvre toutes les portes et, parfois, les crée même à partir de rien.
 
@@ -2283,17 +2080,12 @@ Nous nous promènerons dans les impressionnantes rues grises de Shra'kt'lor en c
 
 À présent, embarquons sans attendre pour ce voyage magique à travers le Multivers et découvrons toutes les merveilles qu'il a à offrir. Après tout, il est si beau. Si vous lui souriez, il vous sourira en retour.
 
-Kieran »
-
-Sous la signature figure un dessin très simple d'un visage souriant doté d'ailes d'ange et d'une auréole.~
+Kieran"Sous la signature figure un dessin très simple d'un visage souriant doté d'ailes d'ange et d'une auréole.~
 @500262 = ~Par la torche et le bouclier : guide du Plan Élémentaire du Feu~
-@500263 = ~« PAR LA TORCHE ET LE BOUCLIER : GUIDE DU PLAN ÉLÉMENTAIRE DU FEU »
-Poids : 1
+@500263 = ~"PAR LA TORCHE ET LE BOUCLIER : GUIDE DU PLAN ÉLÉMENTAIRE DU FEU"Poids : 1
 
 AVANT-PROPOS
-par Kieran le arpenteur
-
-« Je tiens à vous souhaiter la bienvenue, compagnon de voyage à travers les Plans. Peut-être devrais-je même vous souhaiter chaleureusement la bienvenue, car aujourd'hui j'ai l'intention de vous conduire dans l'endroit le plus chaud de tout le Multivers : le Plan Élémentaire du Feu.
+par Kieran le arpenteur"Je tiens à vous souhaiter la bienvenue, compagnon de voyage à travers les Plans. Peut-être devrais-je même vous souhaiter chaleureusement la bienvenue, car aujourd'hui j'ai l'intention de vous conduire dans l'endroit le plus chaud de tout le Multivers : le Plan Élémentaire du Feu.
 
 C'est sans aucun doute un lieu extraordinaire, rempli de gens au cœur chaleureux, de monuments uniques et de merveilles naturelles qu'on ne voit nulle part ailleurs. Je vous recommande d'emporter des boissons fraîches, une bonne crème hydratante et beaucoup de sourires. Une potion de protection contre le feu vous sera également utile si vous comptez explorer les étendues sauvages et sans chemins de ce Plan, à moins que vous ne souhaitiez finir en tas de cendres.
 
@@ -2301,9 +2093,7 @@ Si vous préférez lire plutôt que marcher, et si vous prélasser près d'une c
 
 Je vous invite maintenant à un voyage qui réchauffera vos os et embrasera votre cœur de passion. En route pour l'aventure !
 
-Kieran »
-
-Sous la signature figure un dessin très simple d'un visage souriant doté d'ailes d'ange et d'une auréole.~
+Kieran"Sous la signature figure un dessin très simple d'un visage souriant doté d'ailes d'ange et d'une auréole.~
 @500264 = ~~
 @500265 = ~LAIT DE SHINA-TSU-HIKO
 Poids : 1
@@ -2335,7 +2125,7 @@ Poids : 1
 La couleur verte et toxique de cette boisson est franchement suspecte. Rien que s'approcher du récipient vous donne la nausée. L'ouvrir n'est probablement pas une bonne idée à moins de savoir comment s'en servir. Peut-être que la marilith qui tient le bar comptait la servir à l'un de ses clients.~
 @500274 = ~Eau de Vudra~
 @500275 = ~EAU DE VUDRA
-Lance : « Baiser de la vipère » sur trois cibles à la fois, une fois par jour
+Lance :"Baiser de la vipère"sur trois cibles à la fois, une fois par jour
 Poids : 1
 Inutilisable par les personnages bons
 
@@ -2349,7 +2139,7 @@ Poids : 2
 Cet os appartenait autrefois à Agraval, pour une raison inconnue. Il semble humain.~
 @500278 = ~Os des Mensonges~
 @500279 = ~OS DES MENSONGES
-Lance : « Règne de la colère » sur trois cibles à la fois, une fois par jour
+Lance :"Règne de la colère"sur trois cibles à la fois, une fois par jour
 Poids : 2
 Inutilisable par les personnages bons
 
@@ -2390,9 +2180,7 @@ Poids : 3
 Environ neuf mètres d'une corde épaisse et solide.~
 @500288 = ~Mieux vaut s'égarer que demander son chemin~
 @500289 = ~MIEUX VAUT S'ÉGARER QUE DEMANDER SON CHEMIN
-Poids : 1
-
-« Moi, l'un des nombreux êtres tombés, agrippé désespérément à la vie et empoisonné, j'écris cet avertissement pour tous les cupides et les imbéciles finis, pour vous qui marchez sur les chemins de l'ignorance.
+Poids : 1"Moi, l'un des nombreux êtres tombés, agrippé désespérément à la vie et empoisonné, j'écris cet avertissement pour tous les cupides et les imbéciles finis, pour vous qui marchez sur les chemins de l'ignorance.
 
 Prêtez attention aux signes, car l'heure a sonné et il n'y a plus de retour possible.
 
@@ -2406,22 +2194,20 @@ Il fut un temps où moi-même je cherchais je ne sais quoi. Enfin, mon souhait f
 
 Je compris bientôt que ce n'était pas moi qui posais les questions, mais les questions qui m'étaient posées.
 
-Un matin, il arriva dans toute la splendeur de sa gloire déchue, son infinie majesté reposant sur des piliers de puissance qui échappent à la perception ordinaire et sur une beauté qu'on ne peut contempler tout entière. Quelle hypocrisie. Il se présenta comme un “ami”.
+Un matin, il arriva dans toute la splendeur de sa gloire déchue, son infinie majesté reposant sur des piliers de puissance qui échappent à la perception ordinaire et sur une beauté qu'on ne peut contempler tout entière. Quelle hypocrisie. Il se présenta comme un"ami".
 
 Des promesses, de véritables miracles, des problèmes résolus, j'eus tout cela. Et enfin, convaincu de ma propre divinité, mon esprit déformé rechercha la voie vers la perfection ultime : l'immortalité. Mais je sais maintenant qu'elle n'est que le reflet de la vraie mort dans le miroir déformant d'une vie hantée et mensongère.
 
-Ainsi, franchissant les niveaux successifs du savoir, j'atteignis le crime universel. Il me souffla : “Le meurtre est l'égal du don de la vie. Toute chose ne périt-elle pas afin que le nouveau puisse naître ? Le jeune ne dévore-t-il pas l'ancien ?” Et parfois, j'entends encore cette voix. Je suis tombé dans l'image inversée de la ruine, et je sais que j'ai oublié le chemin de mon ancien foyer.
+Ainsi, franchissant les niveaux successifs du savoir, j'atteignis le crime universel. Il me souffla :"Le meurtre est l'égal du don de la vie. Toute chose ne périt-elle pas afin que le nouveau puisse naître ? Le jeune ne dévore-t-il pas l'ancien ?"Et parfois, j'entends encore cette voix. Je suis tombé dans l'image inversée de la ruine, et je sais que j'ai oublié le chemin de mon ancien foyer.
 
 Peut-être nous délectons-nous de la gloire de nos vies anormales pour découvrir finalement que notre voyage était insignifiant.
 
 Ou peut-être sommes-nous les anges parfaits.
 
-L'“ami” vous expliquera tout, ne prenant en échange que votre âme. »~
+L'"ami"vous expliquera tout, ne prenant en échange que votre âme."~
 @500290 = ~Manifeste ?~
 @500291 = ~MANIFESTE ?
-Poids : 0
-
-« Aux peuples libres de ce monde !
+Poids : 0"Aux peuples libres de ce monde !
 
 En vérité, rien ne pouvait paraître plus étrange à un esprit simple et rebattu comme le mien que l'idée de critiquer les dirigeants. Et pourtant, c'est arrivé, car les apparences sont trompeuses.
 
@@ -2429,14 +2215,12 @@ La situation n'est pas brillante. Les dirigeants sont dépourvus d'honneur, bien
 
 Leurs manières hautaines, leurs paroles évasives, leurs vêtements coûteux et leurs bourses pleines, qu'est-ce que tout cela face à notre vision d'un monde heureux et insouciant ? Ils vous diront que vous ne comprenez pas, mais je comprends parfaitement : la cupidité et la luxure habitent vos cœurs, le désir gouverne votre esprit, et rien d'autre. Les sentiments se sont ternis avec l'éclat de l'or, la liberté s'est flétrie avec la volonté de conquérir et de détruire tout ce qui appartient aux autres, et la joie ne réside plus que dans la souffrance infligée et dans l'accomplissement des promesses de l'envie. Tristes, ô combien tristes sont vos yeux, trompeurs et mensongers. Le pouvoir et l'autorité impitoyable, voilà votre religion !
 
-On dit que les gens simples en veulent aux “meilleurs” parce qu'ils les envient, mais rien n'est plus éloigné de la vérité. Cette rancœur vient de la compréhension d'une chose simple. Le pouvoir est davantage qu'un privilège et que la richesse. C'est pourquoi j'en appelle aux masses des gens ordinaires, aux masses ignorantes : COMBATTONS la botte des gros haineux qui piétinent nos cœurs. Combattons pour une place dans ce noble monde !
+On dit que les gens simples en veulent aux"meilleurs"parce qu'ils les envient, mais rien n'est plus éloigné de la vérité. Cette rancœur vient de la compréhension d'une chose simple. Le pouvoir est davantage qu'un privilège et que la richesse. C'est pourquoi j'en appelle aux masses des gens ordinaires, aux masses ignorantes : COMBATTONS la botte des gros haineux qui piétinent nos cœurs. Combattons pour une place dans ce noble monde !
 
-L'Ignorant Innommé (autrement dit le Séditieux Intelligent) »~
+L'Ignorant Innommé (autrement dit le Séditieux Intelligent)"~
 @500292 = ~Ode à l'Entropie~
 @500293 = ~ODE À L'ENTROPIE
-Poids : 0
-
-« Impossible de revenir en arrière
+Poids : 0"Impossible de revenir en arrière
 Le temps nous est compté
 Bien des hommes ont essayé
 Mais aucun n'a réussi
@@ -2469,7 +2253,7 @@ Le Multivers saigne
 Préparez-vous à la nuit éternelle
 Aux confins des Plans
 Personne ne voit la lumière
-Contemplez l'entropie ! »~
+Contemplez l'entropie !"~
 @500294 = ~Tête de Haer'Dalis~
 @500295 = ~TÊTE DE HAER'DALIS
 Poids : 5
@@ -2513,15 +2297,15 @@ Cette armure a été tissée à partir des peaux de diverses vermines abyssales.
 @700009 = ~Taverne du Rameur du Styx~
 @700010 = ~Taverne Rat and Splat~
 @700011 = ~Taverne~
-@200000 = ~« Nous saurons ce que découvrent les ténèbres, »~ [wers1]
-@200001 = ~« Si la fosse funéraire est profonde ou peu profonde ; »~ [wers2]
-@200002 = ~« Et nos pères d'autrefois, et nos amants, »~ [wers3]
-@200003 = ~« Nous saurons s'ils dorment ou ne dorment pas. »~ [wers4]
-@200004 = ~« Nous verrons si l'enfer n'est pas le paradis, »~ [wers5]
-@200005 = ~« Découvrirons si l'ivraie n'est pas le grain, »~ [wers6]
-@200006 = ~« Et les joies de toi, soixante-dix fois sept, »~ [wers7]
-@200007 = ~« Notre Dame des Douleurs ! »~ [wers8]
-@200008 = ~« Va te faire voir, bige ! »~
+@200000 = ~"Nous saurons ce que découvrent les ténèbres,"~ [wers1]
+@200001 = ~"Si la fosse funéraire est profonde ou peu profonde ;"~ [wers2]
+@200002 = ~"Et nos pères d'autrefois, et nos amants,"~ [wers3]
+@200003 = ~"Nous saurons s'ils dorment ou ne dorment pas."~ [wers4]
+@200004 = ~"Nous verrons si l'enfer n'est pas le paradis,"~ [wers5]
+@200005 = ~"Découvrirons si l'ivraie n'est pas le grain,"~ [wers6]
+@200006 = ~"Et les joies de toi, soixante-dix fois sept,"~ [wers7]
+@200007 = ~"Notre Dame des Douleurs !"~ [wers8]
+@200008 = ~"Va te faire voir, bige !"~
 
 //////////////////
 // ============ //
@@ -2552,7 +2336,7 @@ Prions... Seth regarde. Seth voit. Seth sait. Ouvrez votre cœur à son murmure.
 
 La prière occupe une place importante dans toute religion. Il en va de même ici. Réconforté par la parole de Seth, vous savez que rien ni personne ne pourra se dresser sur le chemin de votre objectif sanglant.
 
-Cette version sombre du sort « Prière » accorde aux alliés un bonus de +1 aux jets d'attaque, de dégâts et de sauvegarde. Les ennemis subissent un malus de -1 aux jets d'attaque, de dégâts et de sauvegarde. Le sort dure 5 secondes par niveau dans un rayon de 18 mètres.~
+Cette version sombre du sort"Prière"accorde aux alliés un bonus de +1 aux jets d'attaque, de dégâts et de sauvegarde. Les ennemis subissent un malus de -1 aux jets d'attaque, de dégâts et de sauvegarde. Le sort dure 5 secondes par niveau dans un rayon de 18 mètres.~
 @600005 = ~Crachat reptilien~
 @600006 = ~CRACHAT REPTILIEN
 Portée : 90 cm
@@ -2610,9 +2394,7 @@ Durée : 18 secondes
 Vitesse : 0
 Zone d'effet : 1 créature
 
-L'adversaire subit des malus aux jets d'attaque et de sauvegarde, un malus de -3 à la Classe d'Armure, un malus de -2 au TAC0 et devient aveugle. Le lanceur reçoit un bonus de +5 aux dégâts et subit 1-6 points de dégâts lors de l'incantation.
-
-« Le corps n'est qu'un réceptacle, et le poing est le jugement. La volonté de Zerthimon traverse mon coup. »~
+L'adversaire subit des malus aux jets d'attaque et de sauvegarde, un malus de -3 à la Classe d'Armure, un malus de -2 au TAC0 et devient aveugle. Le lanceur reçoit un bonus de +5 aux dégâts et subit 1-6 points de dégâts lors de l'incantation."Le corps n'est qu'un réceptacle, et le poing est le jugement. La volonté de Zerthimon traverse mon coup."~
 @600017 = ~Flétrissure abominable~
 @600018 = ~FLÉTRISSURE ABOMINABLE
 Portée : 12 mètres
@@ -2654,7 +2436,7 @@ Vitesse : 9
 Zone d'effet : rayon de 4,5 m autour du lanceur
 Jet de sauvegarde : annule
 
-Les banshees, dont le nom signifie « femmes du tertre féerique », sont également appelées esprits gémissants ou fantômes hurlants. Ce sont de cruels spectres qui auraient été, de leur vivant, des femmes elfes maléfiques. Sous leur forme brumeuse, elles drainent l'énergie des environs et font flétrir la végétation sous leur passage. Pour les gens ordinaires, elles annoncent la mort. Pour les arpenteurs, elles constituent une menace réellement mortelle.
+Les banshees, dont le nom signifie"femmes du tertre féerique", sont également appelées esprits gémissants ou fantômes hurlants. Ce sont de cruels spectres qui auraient été, de leur vivant, des femmes elfes maléfiques. Sous leur forme brumeuse, elles drainent l'énergie des environs et font flétrir la végétation sous leur passage. Pour les gens ordinaires, elles annoncent la mort. Pour les arpenteurs, elles constituent une menace réellement mortelle.
 
 Grâce à ce sort terrifiant, le lanceur peut pousser de sa propre gorge un hurlement perçant audible dans un rayon de 4,5 mètres. Toute personne qui l'entend meurt instantanément à moins de réussir un jet de sauvegarde contre la mort. Le lanceur et ses compagnons sont immunisés contre le cri.~
 @600025 = ~Transformation fiélonne~
@@ -2679,7 +2461,7 @@ Vous êtes maudit pendant toute la durée de la transformation.~
 On est bien partout, mais surtout dans sa propre peau. Vous avez retrouvé votre forme humaine. Quelle transformation infernale ! Ce museau et cette puanteur ! Vous aurez mal à la tête pendant encore longtemps...
 
 Vos caractéristiques sont revenues à leurs valeurs précédentes.
-Vous désactivez également les sorts comme « Aide » et les effets similaires.~
+Vous désactivez également les sorts comme"Aide"et les effets similaires.~
 @600029 = ~Tornade~
 @600030 = ~~
 @600031 = ~Rune de Muspelheim~
@@ -2697,7 +2479,7 @@ Lorsque le sort est lancé, toutes les créatures affectées doublent leur vites
 Le sort affecte toutes les créatures alliées dans un rayon de 4,5 mètres centré sur un point choisi par le lanceur au moment de l'incantation. Les créatures qui quittent la zone restent affectées, tandis que celles qui y entrent ensuite ne le sont pas.
 
 Ce sort ne se cumule ni avec lui-même ni avec une magie similaire. L'incantation de sorts et les autres effets ne sont pas modifiés. Il annule également les effets d'un sort de Lenteur.~
-@600035 = ~« Robe des Vaincus »~
+@600035 = ~"Robe des Vaincus"~
 @600036 = ~Bavardage de mimir~
 @600037 = ~BAVARDAGE DE MIMIR
 Portée : 36 mètres
@@ -2710,7 +2492,7 @@ Morte a parfois prétendu être un mimir. Les mimirs sont des crânes métalliqu
 
 Leur obscure origine est parfois reliée à Mímisbrunnr, le Puits de Mimir en Ysgard, dont on raconte qu'il confère un savoir infini... contre un prix. Morte a-t-il quoi que ce soit à voir avec Ysgard ? Peu probable. Pourrait-on le confondre avec les encyclopédies volantes vendues à Sigil et dans les villes-portails pour 2 000 pièces de cuivre ? Certainement pas. Pourtant, ce mensonge a fini par vivre de sa propre vie, et si l'on croit réellement que Morte pourrait être un mimir, pourquoi ne pourrait-il pas bombarder ses adversaires d'anecdotes inutiles avec la même efficacité qu'il les couvre d'injures ?
 
-Cette aptitude fonctionne comme le sort « Confusion » : 1-4 créatures, plus 1 créature supplémentaire par niveau, deviennent confuses et perdent leurs repères. Les créatures affectées peuvent :
+Cette aptitude fonctionne comme le sort"Confusion": 1-4 créatures, plus 1 créature supplémentaire par niveau, deviennent confuses et perdent leurs repères. Les créatures affectées peuvent :
 1) Errer au hasard
 2) Rester immobiles, confuses
 3) Attaquer la créature la plus proche
@@ -2722,7 +2504,7 @@ Cette aptitude fonctionne comme le sort « Confusion » : 1-4 créatures, plus 1
 // ======== //
 //////////////
 
-@800001 = ~Prod est un imp qui travaille avec Tergush'tekhn et les fiélons du Bar du Cadavre Calciné.
+@800001 = ~Prod est un imp qui travaille avec Tergush'tekhn et les fiélons du Bar du Cadavre Fumant.
 
 Sa peau est grisâtre et sa silhouette voûtée et maigre n'impressionne personne. Les membranes de ses ailes de chauve-souris ont probablement connu des jours meilleurs. Certains trous semblent récents et sont vraisemblablement l'œuvre de Joseph et de ses hommes. Prod ne paraît pas s'en soucier et vous ignorez si ses ailes guériront. Malgré tout, l'imp déborde d'enthousiasme à l'idée du voyage qui s'annonce.~
 @800002 = ~La bonté, la vertu et l'amour sont des concepts purs gardés par les archontes des mots. Leurs ailes sont constituées de nuées de pages de parchemin qui tourbillonnent rapidement autour d'eux. Ils tirent une grande fierté de leur intelligence céleste, et leur peau de bronze lumineuse est plus parfaite que tout ce qu'un humain pourrait imaginer. Ils résident sur le mont Céleste, mais on peut également les rencontrer dans la Maison du Savoir d'Oghma, dans les Outreterre.
@@ -2743,7 +2525,7 @@ On n'a recensé que quelques cas de mimiques capables de communiquer. L'immense 
 On raconte que les mimiques-livres furent élevées par l'Église d'Oghma pour protéger des ouvrages précieux.~
 @800006 = ~Les mariliths sont les généraux et maîtres tacticiens des hordes tanar'ris des Abysses. Elles ressemblent à des créatures serpentines proches des nagas, mais leur torse est celui d'une guerrière dotée de trois paires de bras, chacun capable de manier une arme distincte, souvent prise à un ennemi vaincu. Leur queue peut atteindre six mètres de long.
 
-Comme le déclara un jour Xanxost, érudit slaad toujours perspicace : « Les mariliths prouvent que les êtres chaotiques ne sont pas obligés d'être stupides. » Leur véritable talent réside dans la planification et la conduite de la guerre. Elles peuvent tisser des illusions et charmer leurs ennemis, combinant force brute et stratégie calculée.
+Comme le déclara un jour Xanxost, érudit slaad toujours perspicace :"Les mariliths prouvent que les êtres chaotiques ne sont pas obligés d'être stupides."Leur véritable talent réside dans la planification et la conduite de la guerre. Elles peuvent tisser des illusions et charmer leurs ennemis, combinant force brute et stratégie calculée.
 
 Elles éprouvent un mépris particulier pour les glabrezus, qui préfèrent la tentation et la manipulation, méthodes que les mariliths jugent limitées face à leur propre maîtrise plus vaste de la guerre.~
 @800007 = ~Ces baatezus insectoïdes ressemblant à des cafards géants sont l'élite des tortionnaires de Baator. Ces horribles bourreaux maîtrisent l'art de la torture et savent garder leurs victimes en vie assez longtemps pour qu'elles finissent par désirer la mort. Comme les cafards ordinaires, ces fiélons possèdent six longs membres terminés par des griffes, qu'ils manient avec une précision surprenante pour utiliser divers instruments, généralement avec des effets terrifiants et douloureux.
@@ -2763,13 +2545,10 @@ Les marraénoloths sont de petits humanoïdes squelettiques vêtus de vieilles r
 @800015 = ~Cania, huitième cercle de Baator, est le foyer des gelugons insectoïdes, également appelés diables des glaces. Ce sont des commandants impitoyables de la Guerre Sanglante, qui n'hésitent pas à sacrifier leurs unités pour remporter la victoire. Ils mesurent entre trois et trois mètres soixante et pèsent plus de trois cents kilos. Leur queue se termine par des pointes et leurs yeux complexes, associés à leurs antennes, détectent le moindre mouvement.
 
 Les gelugons sont des guerriers sauvages qui convoitent le pouvoir détenu par les fiélons des fosses, tout en restant loyaux dans leur tâche consistant à obtenir des âmes pour leurs maîtres. Ils peuvent ralentir leurs adversaires grâce à un froid engourdissant et créer des murs de glace. Ils commandent de nombreuses légions de diables prêts à exécuter leurs ordres. Historiquement, Méphistophélès les réduisit en servitude il y a fort longtemps. Le portail vers Nessus, dernier cercle de Baator, est gardé par 9 999 gelugons.~
-@800016 = ~Alviro est un deva venu du Paradis Doré de Mercurie, deuxième strate du mont Céleste. C'est un représentant mineur de la famille des aasimon, également appelés anges. Il cherche à répandre l'ordre et la paix partout où il le peut et s'occupe des nécessiteux du Fossé. Il soigne les blessures et les maladies et propose également des purifications. Il offre volontiers son aide aux pauvres.~
+@800016 = ~Alviro est un déva venu du Paradis Doré de Mercurie, deuxième strate du mont Céleste. C'est un représentant mineur de la famille des aasimon, également appelés anges. Il cherche à répandre l'ordre et la paix partout où il le peut et s'occupe des nécessiteux du Fossé. Il soigne les blessures et les maladies et propose également des purifications. Il offre volontiers son aide aux pauvres.~
 @800017 = ~Les artistes créent des légendes et les légendes légitiment ce que font les artistes, du moins la plupart du temps. Akershus est un compositeur et interprète connu dans toute la Cage et les Outreterre. Il vient de rentrer d'une tournée des villes-portails et s'apprête à composer un nouveau chef-d'œuvre. Il porte un tatouage réalisé par un artiste lameux de Rigus : un motif complexe de ronce-rasoir. En l'examinant attentivement, on découvre une représentation astucieuse dissimulée dans les ombres et les formes entre les lianes. L'image montre des bâtiments attaqués par la ronce-rasoir et quelques monstres bulbeux ressemblant à cette plante.~
 @800018 = ~Les kuo-toas, également appelés hommes-poissons, sont un peuple aquatique originaire de l'Outreterre de Toril. Ils préfèrent les environnements aquatiques et les grottes souterraines. Ils sont plus petits que des humains adultes et sentent le poisson pourri. Ils maîtrisent la fabrication d'outils et d'armes qu'ils utilisent volontiers pour chasser. Filets, harpons et pinces constituent leurs principaux moyens de capturer leurs proies. Les kuo-toas possèdent une hiérarchie bien définie dans laquelle des moines appelés moniteurs maintiennent l'ordre aux côtés des prêtres. Ils vénèrent principalement la mystérieuse Blibdoolpoolp, mais rendent parfois aussi un culte à des monstres marins comme les krakens ou à d'autres divinités telles que Shar, Bhaal ou Démogorgon, dont ils simplifient les noms afin de pouvoir les prononcer.~
-@800019 = ~Parmi les yugoloths, de nombreux monstres inspirent la terreur, mais les baernaloths, qui dépassent deux mètres quarante, sont les plus anciens et leur véritable nature demeure un mystère pour les érudits. Les baernaloths sont obsédés par les secrets antiques. On raconte qu'ils mènent des expériences à une échelle gigantesque et vont jusqu'à intervenir sur la réalité elle-même. Ils auraient peut-être créé les démodandes de Carcères, voire même les diables et les démons. Ils constituent une énigme sans émotion ni couleur. Leur grosse tête évoque le crâne cornu d'un bovin ou d'un bélier, et un liquide jaune s'écoule de leurs yeux vitreux. Ils n'utilisent pas d'armes et s'en remettent à leurs cruelles capacités naturelles. Ils vivent en ermites après avoir rejeté la société yugoloth et émigré en Géhenne. Ils choisissent généralement la solitude, même si les guenaudes nocturnes et les cauchemars leur servent parfois de compagnons.
-
-« Je n'exagère pas et je ne fanfaronne pas. J'ai vu naître les Puissances qui vivent aujourd'hui, et celles qui les ont précédées également. »
-— Daru Ib Shaitiiq~
+@800019 = ~Parmi les yugoloths, de nombreux monstres inspirent la terreur, mais les baernaloths, qui dépassent deux mètres quarante, sont les plus anciens et leur véritable nature demeure un mystère pour les érudits. Les baernaloths sont obsédés par les secrets antiques. On raconte qu'ils mènent des expériences à une échelle gigantesque et vont jusqu'à intervenir sur la réalité elle-même. Ils auraient peut-être créé les démodandes de Carcères, voire même les diables et les démons. Ils constituent une énigme sans émotion ni couleur. Leur grosse tête évoque le crâne cornu d'un bovin ou d'un bélier, et un liquide jaune s'écoule de leurs yeux vitreux. Ils n'utilisent pas d'armes et s'en remettent à leurs cruelles capacités naturelles. Ils vivent en ermites après avoir rejeté la société yugoloth et émigré en Géhenne. Ils choisissent généralement la solitude, même si les guenaudes nocturnes et les cauchemars leur servent parfois de compagnons."Je n'exagère pas et je ne fanfaronne pas. J'ai vu naître les Puissances qui vivent aujourd'hui, et celles qui les ont précédées également."— Daru Ib Shaitiiq~
 @800020 = ~Cette barde tieffeline rousse dirige la troupe d'acteurs de Sigil, qui comprend un autre tieffelin nommé Haer'Dalis, le mage nain Kirinaldo, la mage elfe Lunisia et Biff la Doublure. C'est une femme sûre d'elle qui excelle à créer un lien avec le public. Elle est également connue pour son honnêteté et rembourse souvent les spectateurs insatisfaits lorsqu'elle estime que ses acteurs n'étaient pas suffisamment préparés pour offrir une représentation satisfaisante.~
 @800021 = ~La situation des enfants de Sigil dépend largement des revenus de leurs parents. Dans les quartiers pauvres comme la Ruche, les enfants doivent souvent commencer à gagner de l'argent très tôt. On leur confie des travaux où leur petite taille est utile, comme le ramonage des cheminées ou l'entretien des réverbères, mais ils sont parfois forcés de travailler au-delà de leurs forces dans les usines ou comme Récupérateurs. Dans les pires cas, ils finissent dans des bandes criminelles et profitent des Primaires imprudents. Certains ont toutefois la chance de trouver du travail comme messagers, rabatteurs ou vendeurs de feuilles d'information telles que S.I.G.I.S. (Service d'Information Global de Sigil).
 
@@ -2790,7 +2569,7 @@ Les monodrones sont généralement incapables de comprendre mentalement les modr
 // ===== //
 ///////////
 
-@1000000 = ~« P a t c h »~
+@1000000 = ~"P a t c h"~
 @1000001 = ~CULTE \n\nLa croyance est l'une des forces fondamentales qui façonnent les Plans. Il existe des dizaines de panthéons et des centaines de Puissances vénérées par leurs habitants.~
 @1000002 = ~Culte actuel : Kiaransalee\n(Dame des Morts, la Revenante, la Banshee Vengeresse ou la Douairière Impitoyable) \n\nDivinité chaotique mauvaise de la non-vie et de la vengeance, elle appartient au panthéon drow, la Seldarine Noire. Son royaume divin se trouve en Thanatos, dans les Abysses.\nSa mission consiste à éteindre toute vie dans les Plans afin que règnent pour toujours la paix et l'égalité.~
 
@@ -2812,12 +2591,12 @@ Si vous le souhaitez, vous pouvez également proposer votre aide. Notre projet e
 
 Direction du projet :
 
-    Filip « FallDamage312 » Marczuk : développeur principal, auteur principal et coordinateur narratif, conception visuelle et réalisation, scénariste principal, traductions et relectures supplémentaires
+    Filip"FallDamage312"Marczuk : développeur principal, auteur principal et coordinateur narratif, conception visuelle et réalisation, scénariste principal, traductions et relectures supplémentaires
 
 Développeurs du projet :
 
-    Filip « FallDamage312 » Marczuk
-    Kamil « Wrathu » Kwiatkowski : compositeur musical principal et coordinateur sonore, auteur, responsable de l'inventaire et des objets, traductions et relectures supplémentaires
+    Filip"FallDamage312"Marczuk
+    Kamil"Wrathu"Kwiatkowski : compositeur musical principal et coordinateur sonore, auteur, responsable de l'inventaire et des objets, traductions et relectures supplémentaires
     szef : initiateur du projet, concepteur de l'installateur, de la structure et des éléments de menu, scénariste supplémentaire
     Alicja Wojciechowska : autrice, testeuse, édition et relecture polonaises et anglaises, traductions supplémentaires
 
@@ -2841,17 +2620,15 @@ Auteurs supplémentaires :
 
 Son et musique :
 
-    Kamil « Wrathu » Kwiatkowski : compositeur, coordinateur sonore
-    Victor « Winnie Gotmilk » Gautschi : compositeur et recherche des voix/conception sonore
+    Kamil"Wrathu"Kwiatkowski : compositeur, coordinateur sonore
+    Victor"Winnie Gotmilk"Gautschi : compositeur et recherche des voix/conception sonore
 
 La bande originale est disponible via
     Kamil Kwiatkowski (Wrathu)
     wrathu.bandcamp.com
     linktr.ee/wrathu
     Victor Gautschi (Winnie Gotmilk)
-    winniegotmilk.com
-
-    « Friður » est tiré de l'album « Sólin » (2016) de Wrathu.
+    winniegotmilk.com"Friður"est tiré de l'album"Sólin"(2016) de Wrathu.
 
 Logiciels
     Wrathu utilise : FL Studio v25.1.2., LABS 3.7.8, RefX Nexus2, Symphonia, Sytrus
@@ -2868,7 +2645,7 @@ COMÉDIENS DE DOUBLAGE :
         Magdalena Gautschi : Mawu
         Adrian Waldemar Gajos : Anit'bil
         Tomasz Hebel : Gemariel
-        Agnieszka « Eliamina » Kryszczyńska-Krauze : mystérieuse alu-fiélonne
+        Agnieszka"Eliamina"Kryszczyńska-Krauze : mystérieuse alu-fiélonne
 
     Doublage anglais
         Jon Boote : Prod
@@ -2884,16 +2661,14 @@ COMÉDIENS DE DOUBLAGE :
 
 SOURCES :
 
-Traductions respectueuses du lore fondées sur Sferopedia.pl https://sfery.fandom.com/wiki/Sferopedia
+Traductions respectueuses de l'univers, fondées sur Sferopedia.pl https://sfery.fandom.com/wiki/Sferopedia
 
-Une grande partie du lore relatif au Fossé vient de « Of Sigil and the Sea - The Ditch », article de William James Cuffe publié dans Polyhedron Magazine n° 137, 1999.
+Une grande partie des informations relatives au Fossé vient de"Of Sigil and the Sea - The Ditch", article de William James Cuffe publié dans Polyhedron Magazine n° 137, 1999.
 
 La liste complète des attributions médiatiques se trouve dans le fichier Readme, car elle est bien trop longue pour tenir ici.
 
 Les dialogues et objets peuvent contenir des fragments d'œuvres publiées :
-Articles du portail Grimuar Sferowca https://grimuar.pl/
-« Szataniec » (2018) de Rafał Leniar
-« Dolores » d'Algernon Charles Swinburne
+Articles du portail Grimuar Sferowca https://grimuar.pl/"Szataniec"(2018) de Rafał Leniar"Dolores"d'Algernon Charles Swinburne
 
 DROITS D'AUTEUR :
 
@@ -2904,7 +2679,7 @@ Remerciements exceptionnels à :
 Les créateurs originaux de Black Isle Studios
 Aux concepteurs, auteurs, artistes et programmeurs : merci pour votre vision et votre travail. Sans votre talent, Planescape: Torment n'aurait jamais vu le jour et ce projet n'aurait pas été possible.
 
-The Gibberlings 3 (communauté de modding de l'Infinity Engine)
+The Gibberlings 3 (communauté de création de mods pour l'Infinity Engine)
 En particulier :
 Argent77 - Pour ses conseils et son aide concernant le bestiaire, la logique des quêtes et son soutien inestimable dans tous les domaines. Ce projet ne serait pas le même sans vous.
 CamDawg
